@@ -1,0 +1,93 @@
+# Twinkle twinkle little star?
+# For the monophonic synthesizer (so far):
+# C C G G A A GG
+# F F E E D D CC
+
+#C5 = xiiiii
+#D5 = xiiii
+#E5 = xii
+#F5 = xi
+#G5 = x
+#A5 = iiiiiiiii
+#B5 = iiiiiiii
+
+# C C
+g xiiiii
+s mmm
+G
+s m
+
+g xiiiii
+s mmm
+G
+s m
+
+# G G
+g x
+s mmm
+G
+s m
+
+g x
+s mmm
+G
+s m
+
+# A A
+g iiiiiiiii
+s mmm
+G
+s m
+
+g iiiiiiiii
+s mmm
+G
+s m
+
+# GG
+g x
+s mmmmmm
+G
+s mm
+
+#########################################
+
+# F F
+g xi
+s mmm
+G
+s m
+
+g xi
+s mmm
+G
+s m
+
+# E E
+g xii
+s mmm
+G
+s m
+
+g xii
+s mmm
+G
+s m
+
+# D D
+g xiii
+s mmm
+G
+s m
+
+g xiii
+s mmm
+G
+s m
+
+# C C
+g xiiiii
+s mmmmmm
+G
+s mm
+
