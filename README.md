@@ -3,7 +3,8 @@
 Synsedizer takes as input a simple command language describing a musical
 sequence and outputs 8-bit samples on stdout. Due to limitations of the
 implementation, the output is intermingled with newline characters that need
-to be removed before sending the data to your sound card.
+to be removed before sending the data to your sound card, e.g. by piping the
+output through `tr -d '\n'`.
 
 
 Synsedizer is untested with other sed versions and may require GNU sed.
@@ -12,7 +13,7 @@ Synsedizer is untested with other sed versions and may require GNU sed.
 ## Usage
 
 
-    cat monomusic.txt | ./mono.sed | tr -d '\n' | aplay -f U8
+    cat twinkle.txt | ./mono.sed | tr -d '\n' | aplay -f U8
 
     cat polymusic.txt | ./poly.sed | tr -d '\n' | aplay -f U8
 
