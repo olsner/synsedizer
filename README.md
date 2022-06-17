@@ -52,7 +52,7 @@ accordingly and use the `-r` flag to `aplay` when playing the output.
   note on and off commands.
 
 
-### Command language (Monophonic)
+### Monophonic commands
 
 * `g N`: "note on" command, enables output of the note and sets its wavelength
   to N cycles. If the note is already sounding it is first stopped. The note
@@ -63,7 +63,7 @@ accordingly and use the `-r` flag to `aplay` when playing the output.
 `g` is a mnemonic for "gate".
 
 
-### Command language (Polyphonic)
+### Polyphonic commands
 
 * `[abcde] N`: "note on" command for one of the five allowed notes a through e.
   The wavelength argument is the same as in the monophonic synsedizer.
