@@ -1,4 +1,4 @@
-#!/bin/sed -runf
+#!/bin/sed -rnf
 # Monophonic synsedizer, prototyping :)
 
 # First line is always a command, and we're never initially sleeping.
@@ -67,11 +67,9 @@ s/\n*$/\nA/
 
 # Strip leading newlines
 s/^\n+//g
-
 # Sleep state (finished):
-/^S\n/ {
-    s/^S\n//g
-}
+s/^S\n//g
+
 # Sleep state:
 /^S/ {
     s/^(Sm*)m$/\1cccccccccc/m
