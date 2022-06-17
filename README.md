@@ -45,3 +45,8 @@ Common commands:
 * `[abcde] N`: "note on" command for one of the five allowed notes a through e.
   The wavelength argument is the same as in the monophonic synsedizer.
 * `[ABCDE]`: "note off" command for the corresponding note
+
+
+## License
+
+Synsedizer is available under the MIT license.

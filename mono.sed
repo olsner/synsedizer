@@ -1,5 +1,5 @@
 #!/bin/sed -rnf
-# Monophonic synsedizer, prototyping :)
+# Monophonic synsedizer.
 
 # First line is always a command, and we're never initially sleeping.
 1 bhandle_command
@@ -39,9 +39,7 @@ s/\s+$//g
     h
     bread_command
 }
-i\
-DEBUG: unrecognized command:
-p
+s/^/ERROR: unrecognized command: /p
 bread_command
 
 :main
