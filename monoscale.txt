@@ -1,0 +1,34 @@
+g xx
+s m
+G
+g xiiiiiiiii
+s m
+G
+g xiiiiiiii
+s m
+G
+g xiiiiiii
+s m
+G
+g xiiiiii
+s m
+G
+g xiiiii
+s m
+g xx
+s m
+G
+g xiiiiiiiii
+s m
+G
+g xiiiiiiii
+s m
+G
+g xiiiiiii
+s m
+G
+g xiiiiii
+s m
+G
+g xiiiii
+s m

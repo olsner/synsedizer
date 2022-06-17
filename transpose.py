@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Program to generate/optimize transposed versions of Twinkle Twinkle Little
+# Star that have the smallest error in note frequency due to synsedizer's
+# limitation to integer wavelengths for notes.
 
 import sys
 
