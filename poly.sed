@@ -34,15 +34,17 @@ s/\s+$//g
 }
 /^([ABCDE])$/ {
     s/.*/\L&/
-#i DEBUG: note off {
     G
-#    p
-#i DEBUG: note off }, before removing
     s/\`(.)\n((.*\n)*)W\1,.*$/\2/m
-#    p
-#i } should have removed
     s/^.\n//
     h
+    bread_command
+}
+/^P$/ {
+    # Print the internal state for debugging. You probably want to disable the
+    # output code below to avoid clobbering this with the raw samples.
+    g
+    p
     bread_command
 }
 s/^/ERROR: unrecognized command: /p
@@ -97,8 +99,7 @@ s/^S\n//g
     s/\`(W.*,[mcxi]*)i$/\1/m
     # if WL counter 0: reset WL counter to initial WL, flip value
     /\`W.*,$/M {
-        s/^(W[^,]*,[01],[01])(,[mcxi]+),$/\1\2\2/m
-        s/^(W[^,]*,)([01],)([01],)/\1\3\2/m
+        s/^(W[^,]*)(,[01])(,[01])(,[mcxi]+),$/\1\3\2\4\4/m
     }
 
     s/^([^\n]+)\n(.*)$/\2\n\1/g
