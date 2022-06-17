@@ -1,7 +1,7 @@
 #!/bin/sed -runf
 # Monophonic synsedizer, prototyping :)
 
-# First line is always a command, and we're never sleeping.
+# First line is always a command, and we're never initially sleeping.
 1 bhandle_command
 
 Q
@@ -10,6 +10,14 @@ z
 n
 :handle_command
 #i DEBUG: read_command
+
+# Strip comment(s) and leading/trailing whitespace
+s/#.*$//g
+s/^\s+//g
+s/\s+$//g
+# Nothing left
+/^$/ bread_command
+
 /^s (.*)$/ {
 #i DEBUG: sleep
     # Add sleep. We know there is no sleep yet, as we only read commands when
@@ -40,6 +48,9 @@ bread_command
 #i DEBUG: main
 g
 
+# Remove old accumulator (if any)
+s/^Ai*(\n|$)//
+
 # If sleep state is not present, read one line of input and process.
 /^S/M! {
     bread_command
@@ -47,14 +58,12 @@ g
 
 # Append initial accumulator value (empty string) at end, then shift through
 # state list from the start until we reach the accumulator again.
-s/\n?$/\nA/
+s/\n*$/\nA/
 
 :state_loop
-#i\
-#DEBUG: state loop: state {
+#i DEBUG: state loop: state {
 #p
-#i\
-#} state
+#i } state
 
 # Strip leading newlines
 s/^\n+//g
@@ -94,13 +103,13 @@ s/^\n+//g
 }
 # Accumulator (finished processing)
 /^A/ {
-    # 6 values: 00, 2a, 55, 80, aa, d4, ff
     h
     # Strip away the non-accumulator part
     s/\n.*$//
     # ASCII Debug output:
 #    s/^/Output: /p
     # Binary 8-bit unsigned output
+    # 6 values: 00, 2a, 55, 80, aa, d4, ff
     s/^Aiiiiii+$/\xff/
     s/^Aiiiii$/\xd4/
     s/^Aiiii$/\xaa/
@@ -109,12 +118,6 @@ s/^\n+//g
     s/^Ai$/\x2a/
     s/^A$/\x00/
     P
-
-    # TODO the start of the main-loop can remove the previous accumulator and
-    # add new one at the end...
-    g
-    s/^Ai*\n//
-    h
 
     bmain
 }
