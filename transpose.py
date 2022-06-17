@@ -4,7 +4,8 @@ import sys
 
 tones = ["C","C#","D","D#","E","F","F#","G","G#","A","A#"]
 twinkle_tones = "ACDEFG"
-SAMPLE_RATE = 8000
+SAMPLE_RATE = 44100
+MIN_FREQ = 300
 
 def get_scale(base):
     res = []
@@ -38,15 +39,16 @@ def twinkle(base, fname):
     with open(fname, "w") as out:
         for t in score:
             cyc = roman(cycles[t.upper()])
-            l = 3
+            l = 2000 * SAMPLE_RATE // 8000
             if t.isupper():
                 l *= 2
-            lp = l // 3
-            print(f"g {cyc}\ns {'m'*l}\nG\ns {'m'*lp}", file=out)
+            lp = roman(l // 3)
+            l = roman(l)
+            print(f"g {cyc}\ns {l}\nG\ns {lp}", file=out)
 
 def main():
     scores = []
-    for base in range(100, 8000):
+    for base in range(MIN_FREQ, SAMPLE_RATE):
         scores.append((get_score(base), base))
     scores.sort()
     print("10 best base frequencies for \"C\":")
@@ -54,7 +56,7 @@ def main():
         print(f"{base} Hz: {score}")
 
     print_scale(scores[0][1])
-    twinkle(scores[0][1], "generated_twinkle.txt")
+    twinkle(scores[0][1], f"generated_twinkle_{SAMPLE_RATE}.txt")
 
 if __name__=="__main__":
     sys.exit(main())
