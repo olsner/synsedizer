@@ -24,7 +24,7 @@ s/\s+$//g
     # not sleeping.
     s//S\1/g
     H
-    bmain
+    bleep
 }
 /^([abcde]) (.*)$/ {
 #i DEBUG: note on
@@ -50,7 +50,7 @@ s/\s+$//g
 s/^/ERROR: unrecognized command: /p
 bread_command
 
-:main
+:leep
 #i DEBUG: main
 g
 
@@ -66,7 +66,7 @@ s/^Ai*(\n|$)//
 # state list from the start until we reach the accumulator again.
 s/\n*$/\nA/
 
-:state_loop
+:loop
 #i DEBUG: state loop: state {
 #p
 #i } state
@@ -122,9 +122,9 @@ s/^S\n//g
     s/^A$/\x00/
     P
 
-    bmain
+    bleep
 }
 
-bstate_loop
+bloop
 
-bmain
+bleep
