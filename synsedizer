@@ -91,9 +91,9 @@ s/^S\n//g
 #* Wave state: W<id>,<phase>,<nphase>,initWL,counterWL
 /^W/ {
     # if phase=1: increment accumulator
-    /W([^,]*),1,/ s/^A/Ai/mg
+    /^W([^,]*),1,/ s/^A/Ai/mg
     # if phase=0: decrement accumulator
-    /W([^,]*),0,/ s/^Ai/A/mg
+    /^W([^,]*),0,/ s/^Ai/A/mg
     # Subtract WL counter
     s/\`(W.*,m*)m$/\1cccccccccc/m
     s/\`(W.*,[mc]*)c$/\1xxxxxxxxxx/m
