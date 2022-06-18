@@ -40,11 +40,11 @@ s/\s+$//g
     h
     bread_command
 }
-/^P$/ {
-    # Print the internal state for debugging. You probably want to disable the
-    # output code below to avoid clobbering this with the raw samples.
-    g
-    p
+/^P/ {
+    # Print the internal state on stderr for debugging, together with the full
+    # P command (which can be used for a message or tag).
+    G
+    w /dev/stderr
     bread_command
 }
 s/^/ERROR: unrecognized command: /p

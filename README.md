@@ -56,6 +56,9 @@ accordingly and use the `-r` flag to `aplay` when playing the output.
 
 * `[ABCDE]`: "note off" command for the corresponding note
 
+* `P[tag]`: print the internal synsedizer state on stderr for debugging along
+  with the original command (including the optional tag).
+
 
 ## License
 
