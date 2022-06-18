@@ -54,7 +54,7 @@ bread_command
 #i DEBUG: main
 g
 
-# Remove old accumulator (if any)
+# Remove old accumulator
 s/^Ai*(\n|$)//
 
 # If sleep state is not present, read one line of input and process.
@@ -62,9 +62,9 @@ s/^Ai*(\n|$)//
     bread_command
 }
 
-# Append initial accumulator value (empty string) at end, then shift through
-# state list from the start until we reach the accumulator again.
-s/\n*$/\nA/
+# Append initial accumulator value (3) at end, then shift through state list
+# from the start until we reach the accumulator again.
+s/\n*$/\nAiii/
 
 :loop
 #i DEBUG: state loop: state {
@@ -92,6 +92,8 @@ s/^S\n//g
 /^W/ {
     # if value=1: add value into output
     /W([^,]*),1,/ s/^A/Ai/mg
+    # if value=0: subtract
+    /W([^,]*),0,/ s/^Ai/A/mg
     # Subtract WL counter
     s/\`(W.*,m*)m$/\1cccccccccc/m
     s/\`(W.*,[mc]*)c$/\1xxxxxxxxxx/m
