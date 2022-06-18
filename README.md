@@ -19,9 +19,16 @@ short sequence of rising notes:
     ./synsedizer samples/twinkle.txt | tr -d '\n' | aplay -f U8
     ./synsedizer samples/scale.txt | tr -d '\n' | aplay -f U8
 
-Using too much polyphony may make the synth slower than real time, but it's
-always possible to pipe the output to a file ahead of time and play it with
-`aplay` afterwards.
+
+To demonstrate polyphony, there's also a version of Bad Apple (made for 16kHz
+sample rate):
+
+    ./synsedizer samples/bad-apple-16k.txt | tr -d '\n' | aplay -f U8 -r 16000
+
+
+Using too much polyphony or a too high sample rate may make synsedizer slower
+than real time, but you can also pipe the output to a file ahead of time and
+play it with `aplay` afterwards.
 
 
 ## Command language
