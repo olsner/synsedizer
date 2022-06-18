@@ -7,8 +7,8 @@ import sys
 
 tones = ["C","C#","D","D#","E","F","F#","G","G#","A","A#"]
 twinkle_tones = "ACDEFG"
-SAMPLE_RATE = 44100
-MIN_FREQ = 300
+SAMPLE_RATE = 8000
+MIN_FREQ = 100
 
 def get_scale(base):
     res = []
@@ -42,12 +42,12 @@ def twinkle(base, fname):
     with open(fname, "w") as out:
         for t in score:
             cyc = roman(cycles[t.upper()])
-            l = 2000 * SAMPLE_RATE // 8000
+            l = 3000 * SAMPLE_RATE // 8000
             if t.isupper():
                 l *= 2
             lp = roman(l // 3)
             l = roman(l)
-            print(f"g {cyc}\ns {l}\nG\ns {lp}", file=out)
+            print(f"a {cyc}\ns {l}\nA\ns {lp}", file=out)
 
 def main():
     scores = []

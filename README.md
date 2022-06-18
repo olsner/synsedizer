@@ -13,18 +13,11 @@ Synsedizer may require GNU sed as it is untested with other sed versions.
 ## Usage
 
 
-Some example inputs for the mono synth are provided, Twinkle Twinkle Little Star
-and a short sequence of rising notes:
+Two monophonic example inputs are provided, Twinkle Twinkle Little Star and a
+short sequence of rising notes:
 
-    cat twinkle.txt | ./mono.sed | tr -d '\n' | aplay -f U8
-    cat monoscale.txt | ./mono.sed | tr -d '\n' | aplay -f U8
-
-
-The polysynth is used in much the same way, but there is no good sample music
-produced for it yet:
-
-    cat polymusic.txt | ./poly.sed | tr -d '\n' | aplay -f U8
-
+    cat twinkle.txt | ./synsedizer | tr -d '\n' | aplay -f U8
+    cat monoscale.txt | ./synsedizer | tr -d '\n' | aplay -f U8
 
 Using too much polyphony may make the synth slower than real time, but it's
 always possible to pipe the output to a file ahead of time and play it with
@@ -42,8 +35,6 @@ the output. To use higher sample rates, adapt the cycle counts in your sequence
 accordingly and use the `-r` flag to `aplay` when playing the output.
 
 
-### Common commands
-
 * `s N`: Sleeps for N cycles while outputting synsedized samples before reading
   the next command from the input.
 
@@ -51,22 +42,11 @@ accordingly and use the `-r` flag to `aplay` when playing the output.
   The sleep command determines the note and rest lengths by spacing out the
   note on and off commands.
 
-
-### Monophonic commands
-
-* `g N`: "note on" command, enables output of the note and sets its wavelength
-  to N cycles. If the note is already sounding it is first stopped. The note
-  will continue sounding until stopped with G. Use the `s` command to control
-  note duration.
-* `G`: "note off" command, stops sounding the note (if any).
-
-`g` is a mnemonic for "gate".
-
-
-### Polyphonic commands
-
 * `[abcde] N`: "note on" command for one of the five allowed notes a through e.
-  The wavelength argument is the same as in the monophonic synsedizer.
+  Enables output of the note and sets its wavelength to N cycles. The note will
+  continue sounding until stopped with the corresponding note off command.
+  Use the `s` command to control note duration.
+
 * `[ABCDE]`: "note off" command for the corresponding note
 
 
