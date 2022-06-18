@@ -62,9 +62,9 @@ s/^Ai*(\n|$)//
     bread_command
 }
 
-# Append initial accumulator value (3) at end, then shift through state list
+# Append initial accumulator value (5) at end, then shift through state list
 # from the start until we reach the accumulator again.
-s/\n*$/\nAiii/
+s/\n*$/\nAiiiii/
 
 :loop
 #i DEBUG: state loop: state {
@@ -88,11 +88,11 @@ s/^S\n//g
 #* Noise state:
 #    read line from /dev/urandom, see if the line length is odd or even
 #    add 1 to output accumulator if odd
-#* Wave state: W<id>,<curval>,<nextval>,initWL,counterWL
+#* Wave state: W<id>,<phase>,<nphase>,initWL,counterWL
 /^W/ {
-    # if value=1: add value into output
+    # if phase=1: increment accumulator
     /W([^,]*),1,/ s/^A/Ai/mg
-    # if value=0: subtract
+    # if phase=0: decrement accumulator
     /W([^,]*),0,/ s/^Ai/A/mg
     # Subtract WL counter
     s/\`(W.*,m*)m$/\1cccccccccc/m
@@ -113,17 +113,22 @@ s/^S\n//g
     s/\n.*$//
     # ASCII Debug output:
 #    s/^/Output: /p
-    # Binary 8-bit unsigned output
-    # 6 values: 00, 2a, 55, 80, aa, d4, ff
-    s/^Aiiiiii+$/\xff/
-    s/^Aiiiii$/\xd4/
-    s/^Aiiii$/\xaa/
-    s/^Aiii$/\x80/
-    s/^Aii$/\x55/
-    s/^Ai$/\x2a/
-    s/^A$/\x00/
-    P
-
+    # Binary 8-bit unsigned output with 10 steps plus middle (enough headroom
+    # for the worst case of all five voices coming into phase).
+    /^Aiiiii/ {
+        s/^Aiiiiiiiiii+$/\xff/p
+        s/^Aiiiiiiiii$/\xe6/p
+        s/^Aiiiiiiii$/\xcc/p
+        s/^Aiiiiiii$/\xb2/p
+        s/^Aiiiiii$/\x99/p
+        s/^Aiiiii$/\x80/p
+        bleep
+    }
+    s/^Aiiii$/\x66/p
+    s/^Aiii$/\x4c/p
+    s/^Aii$/\x33/p
+    s/^Ai$/\x1a/p
+    s/^A$/\x00/p
     bleep
 }
 
