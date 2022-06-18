@@ -16,8 +16,8 @@ Synsedizer may require GNU sed as it is untested with other sed versions.
 Two monophonic example inputs are provided, Twinkle Twinkle Little Star and a
 short sequence of rising notes:
 
-    cat twinkle.txt | ./synsedizer | tr -d '\n' | aplay -f U8
-    cat monoscale.txt | ./synsedizer | tr -d '\n' | aplay -f U8
+    ./synsedizer samples/twinkle.txt | tr -d '\n' | aplay -f U8
+    ./synsedizer samples/scale.txt | tr -d '\n' | aplay -f U8
 
 Using too much polyphony may make the synth slower than real time, but it's
 always possible to pipe the output to a file ahead of time and play it with
