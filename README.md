@@ -26,6 +26,8 @@ sample rate):
     ./synsedizer samples/bad-apple-16k.txt | tr -d '\n' | aplay -f U8 -r 16000
 
 
+Check the samples/ directory for additional sample inputs.
+
 Using too much polyphony or a too high sample rate may make synsedizer slower
 than real time, but you can also pipe the output to a file ahead of time and
 play it with `aplay` afterwards.
