@@ -1,4 +1,4 @@
-#!/bin/sed -rnf
+#!/usr/bin/env -S sed -rnf
 # Polyphonic synsedizer.
 
 # First line is always a command, and we're never initially sleeping.
