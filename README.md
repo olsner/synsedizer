@@ -18,14 +18,20 @@ short sequence of rising notes:
 
 To demonstrate polyphony, there's also a version of Bad Apple:
 
-    ./synsedizer samples/bad-apple-16k.txt | aplay
+    ./synsedizer samples/bad-apple.txt | aplay
 
 
 Check the `samples/` directory for additional sample inputs.
 
 Using too much polyphony or a too high sample rate may make synsedizer slower
 than real time, but you can also pipe the output to a file ahead of time and
-play it with `aplay` afterwards.
+play it with `aplay` (or your favorite media player) afterwards.
+
+For example, on a less reasonable platform where you need to launch sed
+explicitly because the hashbang line doesn't work, you might do something like:
+
+    sed -rnf ./synsedizer samples/bad-apple.txt > bad-apple.au
+    start bad-apple.au
 
 
 ## Command language
