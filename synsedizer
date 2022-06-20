@@ -9,8 +9,6 @@ Q
 z
 n
 :handle_command
-#i DEBUG: read_command
-
 # Strip comment(s) and leading/trailing whitespace
 s/#.*$//g
 s/^\s+//g
@@ -42,7 +40,6 @@ s/\s+$//g
     bread_command
 }
 /^s (.*)$/ {
-#i DEBUG: sleep
     # Add sleep. We know there is no sleep yet, as we only read commands when
     # not sleeping.
     s//S\1/g
@@ -50,7 +47,6 @@ s/\s+$//g
     bleep
 }
 /^([abcde]) (.*)$/ {
-#i DEBUG: note on
     s//W\1,1,0,\2,\2/g
     H
     bread_command
@@ -75,7 +71,6 @@ w /dev/stderr
 Q 1
 
 :leep
-#i DEBUG: main
 g
 
 # Remove old accumulator
@@ -86,17 +81,24 @@ s/^Ai*(\n|$)//
     bread_command
 }
 
+# Debug trace
+#{
+#    h
+#    # Indent each line of state and add header/footer then print to stderr
+#    s/^/  /mg
+#    s/^(.*)\n*$/DEBUG: state loop: state {\n&\n} state/
+#    w /dev/stderr
+#    g
+#}
+
 # Append initial accumulator value (5) at end, then shift through state list
 # from the start until we reach the accumulator again.
 s/\n*$/\nAiiiii/
 
 :loop
-#i DEBUG: state loop: state {
-#p
-#i } state
-
 # Strip leading newlines
-s/^\n+//g
+s/^\n+//
+
 # Sleep state (finished):
 s/^S\n//g
 
@@ -109,28 +111,24 @@ s/^S\n//g
     # Still sleeping to do, shuffle and continue
     s/^(S[mcxi]+)\n(.*)$/\2\n\1/
 }
-#* Noise state:
-#    read line from /dev/urandom, see if the line length is odd or even
-#    add 1 to output accumulator if odd
-#* Wave state: W<id>,<phase>,<nphase>,initWL,counterWL
+# Wave state: W<id>,<phase>,<next-phase>,<initial wavelength>,<counter>
 /^W/ {
-    # if phase=1: increment accumulator
+    # increment/decrement accumulator according to phase
     /^W([^,]*),1,/ s/^A/Ai/mg
-    # if phase=0: decrement accumulator
     /^W([^,]*),0,/ s/^Ai/A/mg
-    # Subtract WL counter
+    # Decrement counter
     s/\`(W.*,m*)m$/\1cccccccccc/m
     s/\`(W.*,[mc]*)c$/\1xxxxxxxxxx/m
     s/\`(W.*,[mcx]*)x$/\1iiiiiiiiii/m
     s/\`(W.*,[mcxi]*)i$/\1/m
-    # if WL counter 0: reset WL counter to initial WL, flip value
+    # if WL counter 0: reset WL counter to initial WL, flip phase
     /\`W.*,$/M {
         s/^(W[^,]*)(,[01])(,[01])(,[mcxi]+),$/\1\3\2\4\4/m
     }
-
+    # Shuffle and continue
     s/^([^\n]+)\n(.*)$/\2\n\1/g
 }
-# Accumulator (finished processing)
+# Accumulator (also finished processing this sample)
 /^A/ {
     h
     # Strip away the non-accumulator part
