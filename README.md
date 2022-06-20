@@ -1,13 +1,9 @@
 # The Synsedizer
 
 Synsedizer takes as input a simple command language describing a musical
-sequence and outputs 8-bit samples on stdout.
+sequence and outputs a synsedized `.au` stream on stdout.
 
-Due to limitations of the implementation, the output is intermingled with
-newline characters that need to be removed before sending the data to your
-sound card, e.g. by piping the output through `tr -d '\n'`.
-
-Synsedizer may require GNU sed as it is untested with other sed versions.
+Synsedizer probably requires GNU sed as it uses some GNU extensions.
 
 
 ## Usage
@@ -16,17 +12,16 @@ Synsedizer may require GNU sed as it is untested with other sed versions.
 Two monophonic example inputs are provided, Twinkle Twinkle Little Star and a
 short sequence of rising notes:
 
-    ./synsedizer samples/twinkle.txt | tr -d '\n' | aplay -f U8
-    ./synsedizer samples/scale.txt | tr -d '\n' | aplay -f U8
+    ./synsedizer samples/twinkle.txt | aplay
+    ./synsedizer samples/scale.txt | aplay
 
 
-To demonstrate polyphony, there's also a version of Bad Apple (made for 16kHz
-sample rate):
+To demonstrate polyphony, there's also a version of Bad Apple:
 
-    ./synsedizer samples/bad-apple-16k.txt | tr -d '\n' | aplay -f U8 -r 16000
+    ./synsedizer samples/bad-apple-16k.txt | aplay
 
 
-Check the samples/ directory for additional sample inputs.
+Check the `samples/` directory for additional sample inputs.
 
 Using too much polyphony or a too high sample rate may make synsedizer slower
 than real time, but you can also pipe the output to a file ahead of time and
@@ -39,10 +34,19 @@ Numbers in the command language are entered in a simplified Roman numeral
 format, limited to the letter m, c, x and i. Digits are written in strictly
 decreasing value (big endian), so 9 is written using 9 i's, not ix.
 
-Many commands accept a count in cycles, which is related to the sample rate of
-the output. To use higher sample rates, adapt the cycle counts in your sequence
-accordingly and use the `-r` flag to `aplay` when playing the output.
+Most commands take a cycle count in number of samples, corresponding to some
+frequency (or time delay) depending on the sample rate of the output as
+specified by the `r` command at the start of the file.
 
+
+* `r R`: emit a `.au` header for a sample rate of R (decimal, Hz).
+
+  Recognized sample rates are 8000, 16000 and 44100Hz.
+
+  It's strongly recommended that this be the first non-comment/blank line of
+  the file, although synsedizer can also be used to output raw samples without
+  a header. In this case, you may need to manually specify the sample format as
+  signed 16-bit big-endian in your player.
 
 * `s N`: Sleeps for N cycles while outputting synsedized samples before reading
   the next command from the input.

@@ -1,5 +1,6 @@
-# Demonstrating phasing of voices with similar frequencies. For 44.1kHz.
-# Usually requires rendering offline, as 44100Hz is a bit fast for synsedizer.
+# Demonstrating phasing of voices with similar frequencies. Usually requires
+# rendering offline, as 44100Hz is a bit fast for synsedizer.
+r 44100
 
 a ccccxxxxxxiii
 s m

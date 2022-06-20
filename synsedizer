@@ -18,6 +18,29 @@ s/\s+$//g
 # Nothing left
 /^$/ bread_command
 
+/^r (.*)$/ {
+    / 8000$/ {
+        s/.*/\x00\x00\x1f\x40/
+    }
+    / 16000$/ {
+        s/.*/\x00\x00\x3e\x80/
+    }
+    / 44100$/ {
+        s/.*/\x00\x00\xac\x44/
+    }
+    /.* ([0-9]+)$/ {
+        s//ERROR: unrecognized sample rate: \1/
+        w /dev/stderr
+        Q 1
+    }
+    # start of header: offset to data (28), data size (-1), format (16-bit PCM)
+    s/^/.snd\x00\x00\x00\x1c\xff\xff\xff\xff\x00\x00\x00\x03/
+    # in the middle: sample rate converted above
+    # end of header: number of channels, annotation + padding (4 zeroes), plus
+    # one to be the MSB of the first sample (followed by a newline)
+    s/$/\x00\x00\x00\x01\x00\x00\x00\x00\x00/p
+    bread_command
+}
 /^s (.*)$/ {
 #i DEBUG: sleep
     # Add sleep. We know there is no sleep yet, as we only read commands when
@@ -47,8 +70,9 @@ s/\s+$//g
     w /dev/stderr
     bread_command
 }
-s/^/ERROR: unrecognized command: /p
-bread_command
+s/^/ERROR: unrecognized command: /
+w /dev/stderr
+Q 1
 
 :leep
 #i DEBUG: main
@@ -116,19 +140,19 @@ s/^S\n//g
     # Binary 8-bit unsigned output with 10 steps plus middle (enough headroom
     # for the worst case of all five voices coming into phase).
     /^Aiiiii/ {
-        s/^Aiiiiiiiiii+$/\xff/p
-        s/^Aiiiiiiiii$/\xe6/p
-        s/^Aiiiiiiii$/\xcc/p
-        s/^Aiiiiiii$/\xb2/p
-        s/^Aiiiiii$/\x99/p
-        s/^Aiiiii$/\x80/p
+        s/^Aiiiiiiiiii+$/\x7f/p
+        s/^Aiiiiiiiii$/\x66/p
+        s/^Aiiiiiiii$/\x4c/p
+        s/^Aiiiiiii$/\x33/p
+        s/^Aiiiiii$/\x19/p
+        s/^Aiiiii$/\x00/p
         bleep
     }
-    s/^Aiiii$/\x66/p
-    s/^Aiii$/\x4c/p
-    s/^Aii$/\x33/p
-    s/^Ai$/\x1a/p
-    s/^A$/\x00/p
+    s/^Aiiii$/\xe7/p
+    s/^Aiii$/\xcd/p
+    s/^Aii$/\xb4/p
+    s/^Ai$/\x9a/p
+    s/^A$/\x81/p
     bleep
 }
 
