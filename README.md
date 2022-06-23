@@ -36,10 +36,6 @@ explicitly because the hashbang line doesn't work, you might do something like:
 
 ## Command language
 
-Numbers in the command language are entered in a simplified Roman numeral
-format, limited to the letter m, c, x and i. Digits are written in strictly
-decreasing value (big endian), so 9 is written using 9 i's, not ix.
-
 Most commands take a cycle count in number of samples, corresponding to some
 frequency (or time delay) depending on the sample rate of the output as
 specified by the `r` command at the start of the file.

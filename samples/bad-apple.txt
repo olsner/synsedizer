@@ -1,7101 +1,7101 @@
 r 16000
 
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a xxxxx
-b ci
-s mccccccxxxii
+a 50
+b 101
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 45
+b 67
+s 1632
 B
 A
-a c
-b xxxxii
-s mccccccxxxii
+a 100
+b 42
+s 1632
 B
 A
-a cii
-b xxxxiii
-s mccccccxxxii
+a 102
+b 43
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 A
 B
-a xxiiiii
-b cii
-s mccccccxxxii
+a 25
+b 102
+s 1632
 B
 A
-a cii
-b xxiiiii
-s mccccccxxxii
+a 102
+b 25
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 B
 A
-a c
-b xxxxx
-s mccccccxxxii
+a 100
+b 50
+s 1632
 A
 B
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxx
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 50
+b 68
+s 1632
 B
 A
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 A
 B
-a xxxiiii
-b ci
-s mccccccxxxii
+a 34
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 68
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 A
 B
-a xxxxii
-b c
-s mccccccxxxii
+a 42
+b 100
+s 1632
 B
 A
-a xxxxii
-b c
-s mccccccxxxii
+a 42
+b 100
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 67
+b 45
+s 1632
 B
 A
-a xxxxxi
-b cxxiiiii
-s mccccccxxxii
+a 51
+b 125
+s 1632
 B
 A
-a xxxxxi
-b cxxiiiiii
-s mccccccxxxii
+a 51
+b 126
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 B
 A
-a xxxxiii
-b cxxiiiiiiiii
-s mccccccxxxii
+a 43
+b 129
+s 1632
 A
 B
-a xxxxii
-b cxxiiiiiii
-s mccccccxxxii
+a 42
+b 127
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 34
+b 128
+s 1632
 B
 A
-a cxxiiiiii
-s mccccccxxxii
+a 126
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 86
+s 1632
 B
 A
-a cxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 126
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b cxxiiiiiii
-s mccccccxxxii
+a 38
+b 127
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxii
-s mccccccxxxii
+a 85
+b 42
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiii
-s mccccccxxxii
+a 85
+b 43
+s 1632
 A
 B
-a cxiiii
-b xxxxiiiii
-s mccccccxxxii
+a 114
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b cxiiii
-s mccccccxxxii
+a 45
+b 114
+s 1632
 B
 A
-a xxxxx
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 50
+b 76
+s 1632
 A
 B
-a xxxxx
-b xxxxxxxiiiiiii
-s mccccccxxxii
+a 50
+b 77
+s 1632
 B
 A
-a cxiiii
-b xxxxiiiii
-s mccccccxxxii
+a 114
+b 45
+s 1632
 A
 B
-a xxxxiiiii
-b cxiiii
-s mccccccxxxii
+a 45
+b 114
+s 1632
 B
 A
-a xxxxii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 42
+b 75
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 75
+s 1632
 A
 B
-a xxxxiiiii
-b ciiiiiii
-s mccccccxxxii
+a 45
+b 107
+s 1632
 B
 A
-a ciiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 106
+b 45
+s 1632
 A
 B
-a xxxxx
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 50
+b 67
+s 1632
 A
 B
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 B
 A
-a xxxxxiiii
-b ciiiiiii
-s mccccccxxxii
+a 54
+b 107
+s 1632
 A
 B
-a xxxxxiiii
-b ciiiiiiii
-s mccccccxxxii
+a 54
+b 108
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 45
+b 67
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 45
+b 67
+s 1632
 A
 B
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 45
+b 67
+s 1632
 B
 A
-a xxxxii
-b cii
-s mccccccxxxii
+a 42
+b 102
+s 1632
 A
 B
-a cii
-b xxxxiii
-s mccccccxxxii
+a 102
+b 43
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 68
+b 38
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 A
 B
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 A
 B
-a ci
-b xxiiiii
-s mccccccxxxii
+a 101
+b 25
+s 1632
 B
 A
-a c
-b xxiiiii
-s mccccccxxxii
+a 100
+b 25
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 28
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 B
 A
-a xxxxxi
-b cii
-s mccccccxxxii
+a 51
+b 102
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 A
 B
-a xxxiiii
-b ci
-s mccccccxxxii
+a 34
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 68
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a cii
-b xxxxii
-s mccccccxxxii
+a 102
+b 42
+s 1632
 B
 A
-a xxxxii
-b cii
-s mccccccxxxii
+a 42
+b 102
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxxi
-b cxxiiiiiii
-s mccccccxxxii
+a 51
+b 127
+s 1632
 A
 B
-a xxxxx
-b cxxiiiiiii
-s mccccccxxxii
+a 50
+b 127
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxxxiiiii
-s mccccccxxxii
+a 84
+b 45
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 A
 B
-a cxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 126
+b 43
+s 1632
 B
 A
-a xxxxii
-b cxxiiiiii
-s mccccccxxxii
+a 42
+b 126
+s 1632
 A
 B
-a xxxxxxxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 85
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 86
+s 1632
 B
 A
-a cxxiiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 129
+b 34
+s 1632
 A
 B
-a cxxiiiiiii
-s mccccccxxxii
+a 127
+s 1632
 A
-a xxxxxxxxiiii
-s mccccccxxxii
+a 84
+s 1632
 A
-a xxxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 85
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiii
-s mccccccxxxii
+a 38
+b 127
+s 1632
 A
 B
-a cxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 127
+b 38
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxxii
-s mccccccxxxii
+a 86
+b 42
+s 1632
 A
 B
-a xxxxxxxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 86
+b 43
+s 1632
 B
 A
-a cxiiii
-b xxxxiiiii
-s mccccccxxxii
+a 114
+b 45
+s 1632
 B
 A
-a cxii
-s mccccccxxxii
+a 112
+s 1632
 A
-a xxxxxxxiiiii
-s mccccccxxxii
+a 75
+s 1632
 A
-a xxxxxxxiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 77
+b 45
+s 1632
 B
 A
-a cxiiii
-b xxxxiii
-s mccccccxxxii
+a 114
+b 43
+s 1632
 A
 B
-a cxii
-s mccccccxxxii
+a 112
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxxxxxiiiiii
-b xxxxii
-s mccccccxxxii
+a 76
+b 42
+s 1632
 B
 A
-a ciiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 107
+b 38
+s 1632
 A
 B
-a ciiiiii
-s mccccccxxxii
+a 106
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a ciiiiii
-b xxxiiii
-s mccccccxxxii
+a 106
+b 34
+s 1632
 A
 B
-a ciiiiiii
-s mccccccxxxii
+a 107
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 B
 A
-a xxxxx
-b cii
-s mccccccxxxii
+a 50
+b 102
+s 1632
 B
 A
-a xxxxx
-b ci
-s mccccccxxxii
+a 50
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 45
+b 67
+s 1632
 B
 A
-a xxxxiii
-b ci
-s mccccccxxxii
+a 43
+b 101
+s 1632
 B
 A
-a ci
-b xxxxiii
-s mccccccxxxii
+a 101
+b 43
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 A
 B
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 B
 A
-a ci
-b xxiiiii
-s mccccccxxxii
+a 101
+b 25
+s 1632
 B
 A
-a xxiiiii
-b cii
-s mccccccxxxii
+a 25
+b 102
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 A
 B
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 B
 A
-a xxxxxi
-b cii
-s mccccccxxxii
+a 51
+b 102
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxx
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 50
+b 68
+s 1632
 B
 A
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a c
-b xxxxii
-s mccccccxxxii
+a 100
+b 42
+s 1632
 A
 B
-a cii
-b xxxxii
-s mccccccxxxii
+a 102
+b 42
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxxi
-b cxxiiiii
-s mccccccxxxii
+a 51
+b 125
+s 1632
 B
 A
-a cxxiiiiii
-b xxxxxi
-s mccccccxxxii
+a 126
+b 51
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 45
+b 86
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 45
+b 85
+s 1632
 A
 B
-a cxxiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 127
+b 43
+s 1632
 B
 A
-a xxxxii
-b cxxiiiiiii
-s mccccccxxxii
+a 42
+b 127
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 86
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 B
 A
-a cxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 125
+b 34
+s 1632
 B
 A
-a cxxiiiiii
-s mccccccxxxii
+a 126
+s 1632
 A
-a xxxxxxxxiiiiii
-s mccccccxxxii
+a 86
+s 1632
 A
-a xxxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 85
+b 34
+s 1632
 B
 A
-a cxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 127
+b 38
+s 1632
 A
 B
-a cxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 127
+b 38
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 85
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxxxii
-s mccccccxxxii
+a 84
+b 42
+s 1632
 A
 B
-a cxiiii
-b xxxxiiiii
-s mccccccxxxii
+a 114
+b 45
+s 1632
 B
 A
-a cxii
-b xxxxiiiii
-s mccccccxxxii
+a 112
+b 45
+s 1632
 A
 B
-a xxxxxi
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 51
+b 76
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxxxxi
-s mccccccxxxii
+a 76
+b 51
+s 1632
 B
 A
-a xxxxiiiii
-b cxiii
-s mccccccxxxii
+a 45
+b 113
+s 1632
 A
 B
-a cxiii
-b xxxxiiiii
-s mccccccxxxii
+a 113
+b 45
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 75
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 76
+b 43
+s 1632
 A
 B
-a xxxxiiiii
-b ciiiiiii
-s mccccccxxxii
+a 45
+b 107
+s 1632
 B
 A
-a xxxxiiiii
-b ciiiiiii
-s mccccccxxxii
+a 45
+b 107
+s 1632
 B
 A
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a xxxxxiiii
-b ciiiiiii
-s mccccccxxxii
+a 54
+b 107
+s 1632
 A
 B
-a xxxxxiii
-b ciiiiiiii
-s mccccccxxxii
+a 53
+b 108
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 67
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 67
+b 45
+s 1632
 B
 A
-a xxxxxi
-b c
-s mccccccxxxii
+a 51
+b 100
+s 1632
 B
 A
-a c
-b xxxxx
-s mccccccxxxii
+a 100
+b 50
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 67
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxii
-b cii
-s mccccccxxxii
+a 42
+b 102
+s 1632
 B
 A
-a xxxxiii
-b cii
-s mccccccxxxii
+a 43
+b 102
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 38
+b 67
+s 1632
 B
 A
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 B
 A
-a ci
-b xxiiiii
-s mccccccxxxii
+a 101
+b 25
+s 1632
 B
 A
-a c
-b xxiiiii
-s mccccccxxxii
+a 100
+b 25
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 A
 B
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 B
 A
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 A
 B
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 38
+b 67
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a ci
-b xxxxiii
-s mccccccxxxii
+a 101
+b 43
+s 1632
 A
 B
-a xxxxii
-b cii
-s mccccccxxxii
+a 42
+b 102
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxxi
-b cxxiiiiiii
-s mccccccxxxii
+a 51
+b 127
+s 1632
 A
 B
-a cxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 128
+b 51
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 45
+b 86
+s 1632
 B
 A
-a cxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 126
+b 43
+s 1632
 B
 A
-a xxxxiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 43
+b 128
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 84
+b 38
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 84
+b 38
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 34
+b 128
+s 1632
 A
 B
-a cxxiiiiii
-s mccccccxxxii
+a 126
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxxxxxxiiii
-b xxxiiii
-s mccccccxxxii
+a 84
+b 34
+s 1632
 B
 A
-a cxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 127
+b 38
+s 1632
 B
 A
-a cxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 125
+b 38
+s 1632
 A
 B
-a xxxxii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 42
+b 85
+s 1632
 B
 A
-a xxxxii
-b xxxxxxxxiiii
-s mccccccxxxii
+a 42
+b 84
+s 1632
 B
 A
-a xxxxiiiii
-b cxii
-s mccccccxxxii
+a 45
+b 112
+s 1632
 B
 A
-a cxiiii
-s mccccccxxxii
+a 114
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxxxxxiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 76
+b 45
+s 1632
 B
 A
-a cxiii
-b xxxxiii
-s mccccccxxxii
+a 113
+b 43
+s 1632
 B
 A
-a cxiiiii
-s mccccccxxxii
+a 115
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxxii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 42
+b 76
+s 1632
 A
 B
-a ciiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 108
+b 38
+s 1632
 B
 A
-a ciiiiii
-s mccccccxxxii
+a 106
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a ciiiiiii
-b xxxiiii
-s mccccccxxxii
+a 107
+b 34
+s 1632
 A
 B
-a ciiiiiiii
-s mccccccxxxii
+a 108
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 B
 A
-a cxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 127
+b 28
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 128
+b 28
+s 1632
 A
 B
-a xxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 25
+b 85
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 25
+b 85
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiii
-s mccccccxxxii
+a 34
+b 126
+s 1632
 B
 A
-a cxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 125
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 86
+s 1632
 A
 B
-a xxxiiii
-b cxxiiiiiii
-s mccccccxxxii
+a 34
+b 127
+s 1632
 B
 A
-a cxxiiiiiii
-s mccccccxxxii
+a 127
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 86
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiii
-s mccccccxxxii
+a 38
+b 125
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 128
+b 38
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 A
 B
-a cxii
-b xxiiiiiiii
-s mccccccxxxii
+a 112
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b cxiiiii
-s mccccccxxxii
+a 28
+b 115
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxiiiii
-s mccccccxxxii
+a 75
+b 25
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 25
+b 76
+s 1632
 B
 A
-a cxii
-b xxxiiii
-s mccccccxxxii
+a 112
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cxiiiii
-s mccccccxxxii
+a 34
+b 115
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 76
+b 38
+s 1632
 B
 A
-a xxxiiii
-b cxii
-s mccccccxxxii
+a 34
+b 112
+s 1632
 A
 B
-a cxiii
-s mccccccxxxii
+a 113
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 76
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxiii
-s mccccccxxxii
+a 38
+b 113
+s 1632
 A
 B
-a cxiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 113
+b 38
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 75
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 76
+s 1632
 A
 B
-a ci
-b xxxiiiiiiii
-s mccccccxxxii
+a 101
+b 38
+s 1632
 A
 B
-a c
-b xxxiiiiiiii
-s mccccccxxxii
+a 100
+b 38
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 68
+b 43
+s 1632
 B
 A
-a xxxxii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 42
+b 67
+s 1632
 B
 A
-a ci
-b xxxxiiiii
-s mccccccxxxii
+a 101
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b c
-s mccccccxxxii
+a 45
+b 100
+s 1632
 B
 A
-a xxxxxiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 57
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 67
+b 57
+s 1632
 B
 A
-a xxxxxi
-b cii
-s mccccccxxxii
+a 51
+b 102
+s 1632
 A
 B
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxxx
-s mccccccxxxii
+a 68
+b 50
+s 1632
 B
 A
-a xxxxxiiiiiii
-b cii
-s mccccccxxxii
+a 57
+b 102
+s 1632
 A
 B
-a c
-b xxxxxiiiiiii
-s mccccccxxxii
+a 100
+b 57
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 67
+b 51
+s 1632
 B
 A
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 A
 B
-a xxxxiiiii
-b cii
-s mccccccxxxii
+a 45
+b 102
+s 1632
 B
 A
-a xxxxiiiii
-b cii
-s mccccccxxxii
+a 45
+b 102
+s 1632
 B
 A
-a xxxxii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 42
+b 67
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 67
+b 43
+s 1632
 A
 B
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 B
 A
-a cii
-b xxxxx
-s mccccccxxxii
+a 102
+b 50
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxxx
-s mccccccxxxii
+a 67
+b 50
+s 1632
 B
 A
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 B
 A
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 28
+b 68
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 128
+b 28
+s 1632
 A
 B
-a cxxiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 125
+b 28
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 25
+b 85
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxiiiii
-s mccccccxxxii
+a 84
+b 25
+s 1632
 A
 B
-a xxxiiii
-b cxxiiiiii
-s mccccccxxxii
+a 34
+b 126
+s 1632
 B
 A
-a cxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 126
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 A
 B
-a xxxxxxxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 85
+b 38
+s 1632
 B
 A
-a cxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 125
+b 34
+s 1632
 B
 A
-a cxxiiiiiiii
-s mccccccxxxii
+a 128
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a cxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 126
+b 38
+s 1632
 B
 A
-a cxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 126
+b 38
+s 1632
 A
 B
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 86
+s 1632
 B
 A
-a xxiiiiiiii
-b cxii
-s mccccccxxxii
+a 28
+b 112
+s 1632
 A
 B
-a xxiiiiiiii
-b cxiiii
-s mccccccxxxii
+a 28
+b 114
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 76
+b 25
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 76
+b 25
+s 1632
 B
 A
-a cxii
-b xxxiiii
-s mccccccxxxii
+a 112
+b 34
+s 1632
 B
 A
-a cxii
-b xxxiiii
-s mccccccxxxii
+a 112
+b 34
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 76
+b 38
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 76
+b 38
+s 1632
 B
 A
-a cxiiii
-b xxxiiii
-s mccccccxxxii
+a 114
+b 34
+s 1632
 B
 A
-a cxii
-s mccccccxxxii
+a 112
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 76
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxiiii
-s mccccccxxxii
+a 38
+b 114
+s 1632
 B
 A
-a cxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 115
+b 38
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 76
+b 34
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 76
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 A
 B
-a ci
-b xxxiiiiiiii
-s mccccccxxxii
+a 101
+b 38
+s 1632
 B
 A
-a xxxxii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 42
+b 68
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 43
+b 68
+s 1632
 A
 B
-a xxxxiiiii
-b cii
-s mccccccxxxii
+a 45
+b 102
+s 1632
 B
 A
-a c
-b xxxxiiiii
-s mccccccxxxii
+a 100
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 67
+b 57
+s 1632
 A
 B
-a xxxxxiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 57
+b 68
+s 1632
 B
 A
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 67
+b 51
+s 1632
 B
 A
-a c
-b xxxxxiiiiiii
-s mccccccxxxii
+a 100
+b 57
+s 1632
 B
 A
-a xxxxxiiiiiii
-b ci
-s mccccccxxxii
+a 57
+b 101
+s 1632
 A
 B
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a xxxxiiiii
-b c
-s mccccccxxxii
+a 45
+b 100
+s 1632
 B
 A
-a xxxxiiiii
-b c
-s mccccccxxxii
+a 45
+b 100
+s 1632
 A
 B
-a xxxxii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 42
+b 67
+s 1632
 B
 A
-a xxxxii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 42
+b 68
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a cii
-b xxxiiiiiiii
-s mccccccxxxii
+a 102
+b 38
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 B
 A
-a cii
-b xxxxxi
-s mccccccxxxii
+a 102
+b 51
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxx
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 50
+b 68
+s 1632
 B
 A
-a xxxiiii
-b ci
-s mccccccxxxii
+a 34
+b 101
+s 1632
 B
 A
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 28
+b 128
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 128
+b 28
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 25
+b 85
+s 1632
 A
 B
-a xxxxxxxxiiiii
-b xxiiiii
-s mccccccxxxii
+a 85
+b 25
+s 1632
 B
 A
-a cxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 125
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiiiiii
-s mccccccxxxii
+a 34
+b 129
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 86
+b 38
+s 1632
 A
 B
-a xxxxxxxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 85
+b 38
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiii
-s mccccccxxxii
+a 34
+b 126
+s 1632
 B
 A
-a cxxiiiiiiii
-s mccccccxxxii
+a 128
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 A
 B
-a xxxiiiiiiii
-b cxxiiiii
-s mccccccxxxii
+a 38
+b 125
+s 1632
 B
 A
-a cxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 126
+b 38
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 86
+b 34
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 86
+s 1632
 A
 B
-a cxiii
-b xxiiiiiiii
-s mccccccxxxii
+a 113
+b 28
+s 1632
 A
 B
-a xxiiiiiiii
-b cxiii
-s mccccccxxxii
+a 28
+b 113
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 76
+b 25
+s 1632
 B
 A
-a xxxxxxxiiiiiii
-b xxiiiii
-s mccccccxxxii
+a 77
+b 25
+s 1632
 A
 B
-a cxii
-b xxxiiii
-s mccccccxxxii
+a 112
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cxii
-s mccccccxxxii
+a 34
+b 112
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 B
 A
-a xxxiiii
-b cxii
-s mccccccxxxii
+a 34
+b 112
+s 1632
 A
 B
-a cxiii
-s mccccccxxxii
+a 113
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 75
+s 1632
 B
 A
-a cxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 115
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxii
-s mccccccxxxii
+a 38
+b 112
+s 1632
 A
 B
-a xxxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 77
+b 34
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 75
+b 34
+s 1632
 B
 A
-a c
-b xxxiiiiiiii
-s mccccccxxxii
+a 100
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b cii
-s mccccccxxxii
+a 38
+b 102
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 67
+b 43
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxii
-s mccccccxxxii
+a 68
+b 42
+s 1632
 B
 A
-a xxxxiiiii
-b c
-s mccccccxxxii
+a 45
+b 100
+s 1632
 B
 A
-a cii
-b xxxxiiiii
-s mccccccxxxii
+a 102
+b 45
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 68
+b 57
+s 1632
 B
 A
-a xxxxxiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 57
+b 67
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxx
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 50
+b 68
+s 1632
 B
 A
-a ci
-b xxxxxiiiiiii
-s mccccccxxxii
+a 101
+b 57
+s 1632
 B
 A
-a cii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 102
+b 57
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 68
+b 51
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 68
+b 51
+s 1632
 B
 A
-a xxxxiiiii
-b c
-s mccccccxxxii
+a 45
+b 100
+s 1632
 B
 A
-a cii
-b xxxxiiiii
-s mccccccxxxii
+a 102
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 67
+b 43
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxxii
-s mccccccxxxii
+a 67
+b 42
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 A
 B
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxxx
-s mccccccxxxii
+a 67
+b 50
+s 1632
 A
 B
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 28
+b 67
+s 1632
 A
 B
-a xxiiiiiiii
-b cxxiiiiii
-s mccccccxxxii
+a 28
+b 126
+s 1632
 B
 A
-a cxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 127
+b 28
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxiiiii
-s mccccccxxxii
+a 85
+b 25
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 86
+b 25
+s 1632
 B
 A
-a cxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 127
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 34
+b 128
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 86
+b 38
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 86
+b 38
+s 1632
 A
 B
-a xxxiiii
-b cxxiiiii
-s mccccccxxxii
+a 34
+b 125
+s 1632
 B
 A
-a cxxiiiii
-s mccccccxxxii
+a 125
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 38
+b 128
+s 1632
 A
 B
-a xxxiiiiiiii
-b cxxiiiii
-s mccccccxxxii
+a 38
+b 125
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 85
+b 34
+s 1632
 B
 A
-a cxiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 114
+b 28
+s 1632
 A
 B
-a xxiiiiiiii
-b cxiiii
-s mccccccxxxii
+a 28
+b 114
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 25
+b 75
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 25
+b 76
+s 1632
 B
 A
-a xxxiiii
-b cxiiii
-s mccccccxxxii
+a 34
+b 114
+s 1632
 B
 A
-a xxxiiii
-b cxii
-s mccccccxxxii
+a 34
+b 112
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 76
+b 38
+s 1632
 B
 A
-a xxxiiii
-b cxiiii
-s mccccccxxxii
+a 34
+b 114
+s 1632
 B
 A
-a cxii
-s mccccccxxxii
+a 112
+s 1632
 A
-a xxxxxxxiiiii
-s mccccccxxxii
+a 75
+s 1632
 A
-a xxxiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 75
+s 1632
 B
 A
-a cxiiii
-b xxiiiii
-s mccccccxxxii
+a 114
+b 25
+s 1632
 B
 A
-a cxii
-b xxiiiii
-s mccccccxxxii
+a 112
+b 25
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxii
-s mccccccxxxii
+a 75
+b 22
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxii
-s mccccccxxxii
+a 76
+b 22
+s 1632
 B
 A
-a xxi
-b c
-s mccccccxxxii
+a 21
+b 100
+s 1632
 B
 A
-a xxi
-b c
-s mccccccxxxii
+a 21
+b 100
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxii
-s mccccccxxxii
+a 67
+b 22
+s 1632
 B
 A
-a xxii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 22
+b 68
+s 1632
 B
 A
-a xxiiiii
-b cii
-s mccccccxxxii
+a 25
+b 102
+s 1632
 B
 A
-a ci
-b xxiiiii
-s mccccccxxxii
+a 101
+b 25
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 28
+b 68
+s 1632
 B
 A
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxiiiiiiii
-b cii
-s mccccccxxxii
+a 38
+b 102
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxiiiiiiii
-b cii
-s mccccccxxxii
+a 38
+b 102
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 43
+b 67
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxii
-s mccccccxxxii
+a 68
+b 42
+s 1632
 B
 A
-a ci
-b xxxxiiiii
-s mccccccxxxii
+a 101
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b ci
-s mccccccxxxii
+a 45
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 67
+b 57
+s 1632
 A
 B
-a xxxxxiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 57
+b 68
+s 1632
 A
 B
-a xxxxxi
-b cii
-s mccccccxxxii
+a 51
+b 102
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 68
+b 51
+s 1632
 A
 B
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a xxxiiii
-b ci
-s mccccccxxxii
+a 34
+b 101
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 28
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b cxxiiiii
-c xxxxxxxxiiiii
-s mccccccxxxii
+a 28
+b 125
+c 85
+s 1632
 C
 B
-s mccccccxxxii
+s 1632
 A
-a xxiiiii
-s mmmccxxxxxxiiiii
+a 25
+s 3265
 A
-a xxxiiii
-s mmmccxxxxxxiiiii
+a 34
+s 3265
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 38
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
+a 34
+s 1632
 A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
+s 3265
+a 34
+s 1632
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 38
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
-b cxxiiiiii
-c xxxxxxxxiiiii
-s mccccccxxxii
-A
-C
-B
-a xxiiiiiiii
-b cxiii
-c xxxxxxxiiiiii
-s mccccccxxxii
-C
-B
-s mccccccxxxii
-A
-a xxiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mccccccxxxii
-b xxxxxxxiiiii
-c cxii
-s mccccccxxxii
+a 34
+s 1632
+b 126
+c 85
+s 1632
 A
 C
 B
-a xxxxxxiiiiiiii
-b xxxiiiiiiii
-c cii
-s mccccccxxxii
-A
-C
-s mccccccxxxii
-B
-a xxxxiii
-s mmmccxxxxxxiiiii
-A
-a xxxxiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxi
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxxxi
-s mccccccxxxii
-A
-a xxxxxiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxx
-s mccccccxxxii
-b xxxxxxiiiiiiii
-c ci
-s mccccccxxxii
-A
+a 28
+b 113
+c 76
+s 1632
 C
 B
-a xxxxiiiii
-b xxxxxxiiiiiii
-c cii
-s mccccccxxxii
-C
-B
-s mccccccxxxii
+s 1632
 A
-a xxxxii
-s mmmccxxxxxxiiiii
+a 25
+s 3265
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 34
+s 3265
 A
-a xxxiiii
-s mmmccxxxxxxiiiii
+a 38
+s 3265
 A
-a xxxxxi
-s mccccccxxxii
+a 34
+s 1632
 A
-s mmmccxxxxxxiiiii
-a xxxxxi
-s mccccccxxxii
+s 3265
+a 34
+s 1632
 A
-a xxxiiii
-s mmmccxxxxxxiiiii
+a 38
+s 3265
 A
-a xxiiiiiiii
-s mccccccxxxii
-b ci
-c xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+s 1632
+b 75
+c 112
+s 1632
 A
 C
 B
-a cxxiiiiii
-b xxiiiiiiii
-c xxxxxxxxiiiii
-s mccccccxxxii
+a 68
+b 38
+c 102
+s 1632
 A
 C
-s mccccccxxxii
+s 1632
 B
-a xxiiiii
-s mmmccxxxxxxiiiii
+a 43
+s 3265
 A
-a xxxiiii
-s mmmccxxxxxxiiiii
+a 45
+s 3265
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 56
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
+a 51
+s 1632
 A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
+s 3265
+a 51
+s 1632
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 57
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
-b cxxiiiiiiiii
-c xxxxxxxxiiiiii
-s mccccccxxxii
-A
-C
-B
-a cxiii
-b xxxxxxxiiiiii
-c xxiiiiiiii
-s mccccccxxxii
-B
-A
-s mccccccxxxii
-C
-a xxiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mccccccxxxii
-b cxiiii
-c xxxxxxxiiiiii
-s mccccccxxxii
-C
-A
-B
-a xxxxxxiiiiiiii
-b c
-c xxxiiiiiiii
-s mccccccxxxii
-A
-B
-s mccccccxxxii
-C
-a xxxxii
-s mmmccxxxxxxiiiii
-A
-a xxxxiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxx
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxxxi
-s mccccccxxxii
-A
-a xxxxxiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxi
-s mccccccxxxii
-b xxxxxxiiiiiii
-c ci
-s mccccccxxxii
+a 50
+s 1632
+b 68
+c 101
+s 1632
 A
 C
 B
-a xxxxiiiii
-b ci
-c xxxxxxiiiiiii
-s mccccccxxxii
-B
+a 45
+b 67
+c 102
+s 1632
 C
-s mccccccxxxii
-A
-a xxxxii
-s mmmccxxxxxxiiiii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxi
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxxxi
-s mccccccxxxii
-A
-a xxxiiii
-s mmmccxxxxxxiiiii
-A
-a xxiiiiiiii
-s mccccccxxxii
-b c
-c xxxxxxiiiiiiii
-s mccccccxxxii
-A
 B
-C
-a cxxiiiii
-b xxxxxxxxiiii
-c xxiiiiiiii
-s mccccccxxxii
+s 1632
 A
-B
-s mccccccxxxii
-C
-a xxiiiii
-s mmmccxxxxxxiiiii
+a 42
+s 3265
 A
-a xxxiiii
-s mmmccxxxxxxiiiii
+a 38
+s 3265
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 34
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
+a 51
+s 1632
 A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
+s 3265
+a 51
+s 1632
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 34
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
-b cxxiiiiiiiii
-c xxxxxxxxiiiii
-s mccccccxxxii
-C
-A
-B
-a cxii
-b xxxxxxxiiiii
-c xxiiiiiiii
-s mccccccxxxii
-B
-A
-s mccccccxxxii
-C
-a xxiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mccccccxxxii
-b xxxxxxxiiiiii
-c cxii
-s mccccccxxxii
-C
-A
-B
-a xxxiiiiiiii
-b ci
-c xxxxxxiiiiiii
-s mccccccxxxii
-B
-C
-s mccccccxxxii
-A
-a xxxxiii
-s mmmccxxxxxxiiiii
-A
-a xxxxiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxi
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxxx
-s mccccccxxxii
-A
-a xxxxxiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxx
-s mccccccxxxii
-b ci
-c xxxxxxiiiiiii
-s mccccccxxxii
+a 28
+s 1632
+b 101
+c 68
+s 1632
 A
 C
 B
-a xxxxiiiii
-b xxxxxxiiiiiiii
-c ci
-s mccccccxxxii
-C
-B
-s mccccccxxxii
-A
-a xxxxiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxx
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxxx
-s mccccccxxxii
-A
-a xxxiiii
-s mmmccxxxxxxiiiii
-A
-a xxiiiiiiii
-s mccccccxxxii
-b c
-c xxxxxxiiiiiii
-s mccccccxxxii
+a 126
+b 28
+c 85
+s 1632
 A
 C
+s 1632
 B
-a xxxxxxxxiiiiii
-b cxxiiiiiiii
-c xxiiiiiiii
-s mccccccxxxii
+a 25
+s 3265
 A
-B
-s mccccccxxxii
-C
-a xxiiiii
-s mmmccxxxxxxiiiii
+a 34
+s 3265
 A
-a xxxiiii
-s mmmccxxxxxxiiiii
+a 38
+s 3265
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 34
+s 1632
 A
-a xxxiiii
-s mccccccxxxii
+s 3265
+a 34
+s 1632
 A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
+a 38
+s 3265
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxiiii
-s mccccccxxxii
-b cxxiiiiiiii
-c xxxxxxxxiiiiii
-s mccccccxxxii
+a 34
+s 1632
+b 129
+c 86
+s 1632
 A
 C
 B
-a xxxxxxxiiiiii
-b xxiiiiiiii
-c cxiiiii
-s mccccccxxxii
+a 113
+b 76
+c 28
+s 1632
+B
+A
+s 1632
+C
+a 25
+s 3265
+A
+a 34
+s 3265
+A
+a 38
+s 3265
+A
+a 34
+s 1632
+A
+s 3265
+a 34
+s 1632
+A
+a 38
+s 3265
+A
+a 34
+s 1632
+b 114
+c 76
+s 1632
 C
 A
-s mccccccxxxii
 B
-a xxiiiii
-s mmmccxxxxxxiiiii
+a 68
+b 100
+c 38
+s 1632
 A
-a xxxiiii
-s mmmccxxxxxxiiiii
+B
+s 1632
+C
+a 42
+s 3265
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+a 45
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
+a 57
+s 3265
 A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
+a 50
+s 1632
 A
-a xxiiiii
-s mmmccxxxxxxiiiii
+s 3265
+a 51
+s 1632
 A
-a xxii
-s mccccccxxxii
-b xxxxxxxiiiii
-c cxiiii
-s mccccccxxxii
+a 57
+s 3265
+A
+a 51
+s 1632
+b 67
+c 101
+s 1632
 A
 C
 B
-a xxxxxxiiiiiiii
-b cii
-c xxi
-s mccccccxxxii
-A
+a 45
+b 101
+c 67
+s 1632
 B
-s mccccccxxxii
 C
-a xxii
-s mmmccxxxxxxiiiii
+s 1632
 A
-a xxiiiii
-s mmmccxxxxxxiiiii
+a 42
+s 3265
 A
-a xxiiiiiiii
-s mmmccxxxxxxiiiii
+a 38
+s 3265
 A
-a xxxiiii
-s mccccccxxxii
+a 34
+s 3265
 A
-s mmmccxxxxxxiiiii
-a xxxiiii
-s mccccccxxxii
+a 51
+s 1632
 A
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
+s 3265
+a 51
+s 1632
 A
-a xxxiiii
-s mccccccxxxii
-b ci
-c xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+s 3265
+A
+a 28
+s 1632
+b 100
+c 68
+s 1632
+A
 B
-A
 C
-a xxxiiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxiii
-s mmmccxxxxxxiiiii
-A
-a xxxxiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxxiiiiiii
-s mmmccxxxxxxiiiii
-A
-a xxxxx
-b xxxxxxxiiiiii
-s mccccccxxxii
-B
-A
-s mmmccxxxxxxiiiii
-a xxxxxxxiiiiii
-b xxxxxi
-s mccccccxxxii
-B
-A
-a xxxxxxxxiiiii
-s mccccccxxxii
-A
-s mmmccxxxxxxiiiii
-a xxxxxxxxiiii
-s mccccccxxxii
-A
-a xxxxxi
-b ci
-s mccccccxxxii
-B
-A
-s mccccccxxxii
-a ci
-b xxxxxi
-s mccccccxxxii
-B
-A
-a xxxxx
-b cii
-s mccccccxxxii
-B
-A
-s mccccccxxxii
-a cii
-b xxxxxi
-s mccccccxxxii
-B
-A
-a cxxxiii
-b xxxxxxiiiiiii
-s mccccccxxxii
-B
-A
-a cxiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
-B
-A
-a ci
-b xxxxxi
-s mccccccxxxii
+a 125
+b 84
+c 28
+s 1632
 A
 B
-s mccccccxxxii
-a xxxxxi
-b cii
-s mccccccxxxii
-B
+s 1632
+C
+a 25
+s 3265
 A
-a ci
-b xxxxxi
-s mccccccxxxii
-B
+a 34
+s 3265
 A
-s mccccccxxxii
-a xxxxxi
-b cii
-s mccccccxxxii
-B
+a 38
+s 3265
 A
-a xxxxxxiiiiiiii
-b cxxxiiiii
-s mccccccxxxii
+a 34
+s 1632
 A
-B
-a cxiiiii
-b xxxxxiiiiii
-s mccccccxxxii
-B
+s 3265
+a 34
+s 1632
 A
-a c
-b xxxxx
-s mccccccxxxii
-B
+a 38
+s 3265
 A
-s mccccccxxxii
-a xxxxxi
-b ci
-s mccccccxxxii
-B
-A
-a cii
-b xxxxxi
-s mccccccxxxii
+a 34
+s 1632
+b 129
+c 85
+s 1632
+C
 A
 B
-s mccccccxxxii
-a xxxxx
-b cii
-s mccccccxxxii
+a 112
+b 75
+c 28
+s 1632
 B
 A
-a cxxxiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
-B
+s 1632
+C
+a 25
+s 3265
 A
-a xxxxxiiiiiii
-b cxiiii
-s mccccccxxxii
-B
+a 34
+s 3265
 A
-a c
-b xxxxx
-s mccccccxxxii
+a 38
+s 3265
+A
+a 34
+s 1632
+A
+s 3265
+a 34
+s 1632
+A
+a 38
+s 3265
+A
+a 34
+s 1632
+b 76
+c 112
+s 1632
+C
 A
 B
-a cii
-b xxxxxi
-s mccccccxxxii
+a 38
+b 101
+c 67
+s 1632
+B
+C
+s 1632
 A
-B
-a xxxxxiiiiiii
-b cxiii
-s mccccccxxxii
-B
+a 43
+s 3265
 A
-a ci
-b xxxxxi
-c xxxxx
-s mccccccxxxii
-B
+a 45
+s 3265
+A
+a 57
+s 3265
+A
+a 51
+s 1632
+A
+s 3265
+a 50
+s 1632
+A
+a 57
+s 3265
+A
+a 50
+s 1632
+b 101
+c 67
+s 1632
 A
 C
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
 B
+a 45
+b 68
+c 101
+s 1632
+C
+B
+s 1632
+A
+a 43
+s 3265
+A
+a 38
+s 3265
+A
+a 34
+s 3265
+A
+a 50
+s 1632
+A
+s 3265
+a 50
+s 1632
+A
+a 34
+s 3265
+A
+a 28
+s 1632
+b 100
+c 67
+s 1632
+A
+C
+B
+a 86
+b 128
+c 28
+s 1632
+A
+B
+s 1632
+C
+a 25
+s 3265
+A
+a 34
+s 3265
+A
+a 38
+s 3265
+A
+a 34
+s 1632
+A
+s 3265
+a 34
+s 1632
+A
+a 38
+s 3265
+A
+a 34
+s 1632
+b 128
+c 86
+s 1632
+A
+C
+B
+a 76
+b 28
+c 115
+s 1632
+C
+A
+s 1632
+B
+a 25
+s 3265
+A
+a 34
+s 3265
+A
+a 38
+s 3265
+A
+a 34
+s 1632
+A
+s 3265
+a 34
+s 1632
+A
+a 25
+s 3265
+A
+a 22
+s 1632
+b 75
+c 114
+s 1632
+A
+C
+B
+a 68
+b 102
+c 21
+s 1632
+A
+B
+s 1632
+C
+a 22
+s 3265
+A
+a 25
+s 3265
+A
+a 28
+s 3265
+A
+a 34
+s 1632
+A
+s 3265
+a 34
+s 1632
+A
+a 38
+s 3265
+A
+a 34
+s 1632
+b 101
+c 68
+s 1632
+B
+A
+C
+a 38
+s 3265
+A
+a 43
+s 3265
+A
+a 45
+s 3265
+A
+a 57
+s 3265
+A
+a 50
+b 76
+s 1632
+B
+A
+s 3265
+a 76
+b 51
+s 1632
+B
+A
+a 85
+s 1632
+A
+s 3265
+a 84
+s 1632
+A
+a 51
+b 101
+s 1632
+B
+A
+s 1632
+a 101
+b 51
+s 1632
+B
+A
+a 50
+b 102
+s 1632
+B
+A
+s 1632
+a 102
+b 51
+s 1632
+B
+A
+a 133
+b 67
+s 1632
+B
+A
+a 115
+b 57
+s 1632
+B
+A
+a 101
+b 51
+s 1632
+A
+B
+s 1632
+a 51
+b 102
+s 1632
+B
+A
+a 101
+b 51
+s 1632
+B
+A
+s 1632
+a 51
+b 102
+s 1632
+B
+A
+a 68
+b 135
+s 1632
+A
+B
+a 115
+b 56
+s 1632
+B
+A
+a 100
+b 50
+s 1632
+B
+A
+s 1632
+a 51
+b 101
+s 1632
+B
+A
+a 102
+b 51
+s 1632
+A
+B
+s 1632
+a 50
+b 102
+s 1632
+B
+A
+a 136
+b 68
+s 1632
+B
+A
+a 57
+b 114
+s 1632
+B
+A
+a 100
+b 50
+s 1632
+A
+B
+a 102
+b 51
+s 1632
+A
+B
+a 57
+b 113
+s 1632
+B
+A
+a 101
+b 51
+c 50
+s 1632
+B
+A
+C
+a 76
+b 38
+s 1632
+B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxii
-s mccccccxxxii
+a 85
+b 42
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 A
 B
-a ci
-b xxxxxi
-s mccccccxxxii
+a 101
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a ci
-b xxxxxi
-s mccccccxxxii
+s 1632
+a 101
+b 51
+s 1632
 B
 A
-a cii
-b xxxxxi
-s mccccccxxxii
+a 102
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a c
-b xxxxxi
-s mccccccxxxii
+s 1632
+a 100
+b 51
+s 1632
 A
 B
-a cxxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 134
+b 67
+s 1632
 B
 A
-a cxiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 113
+b 57
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-s mccccccxxxii
-a ci
-b xxxxx
-s mccccccxxxii
+s 1632
+a 101
+b 50
+s 1632
 A
 B
-a xxxxx
-b ci
-s mccccccxxxii
+a 50
+b 101
+s 1632
 B
 A
-s mccccccxxxii
-a ci
-b xxxxxi
-s mccccccxxxii
+s 1632
+a 101
+b 51
+s 1632
 B
 A
-a cxxxiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 136
+b 68
+s 1632
 B
 A
-a xxxxxiiiiiii
-b cxiii
-s mccccccxxxii
+a 57
+b 113
+s 1632
 A
 B
-a ci
-b xxxxxi
-s mccccccxxxii
+a 101
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a c
-b xxxxx
-s mccccccxxxii
+s 1632
+a 100
+b 50
+s 1632
 B
 A
-a ci
-b xxxxx
-s mccccccxxxii
+a 101
+b 50
+s 1632
 B
 A
-s mccccccxxxii
-a xxxxx
-b cii
-s mccccccxxxii
+s 1632
+a 50
+b 102
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b cxxxiiiii
-s mccccccxxxii
+a 67
+b 135
+s 1632
 B
 A
-a xxxxxiiiiiii
-b cxii
-s mccccccxxxii
+a 57
+b 112
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 76
+b 38
+s 1632
 A
 B
-a xxxxii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 42
+b 85
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 75
+b 38
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 85
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiii
-s mccccccxxxii
+a 85
+b 43
+s 1632
 A
 B
-a xxxxxxxxxi
-b xxxxiiiii
-s mccccccxxxii
+a 91
+b 45
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 43
+b 86
+s 1632
 B
 A
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a ci
-b xxxxxi
-s mccccccxxxii
+s 1632
+a 101
+b 51
+s 1632
 A
 B
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-s mccccccxxxii
-a cii
-b xxxxx
-s mccccccxxxii
+s 1632
+a 102
+b 50
+s 1632
 B
 A
-a cxxxii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 132
+b 68
+s 1632
 B
 A
-a xxxxxiiiiiii
-b cxii
-s mccccccxxxii
+a 57
+b 112
+s 1632
 A
 B
-a xxxxxi
-b cii
-s mccccccxxxii
+a 51
+b 102
+s 1632
 A
 B
-s mccccccxxxii
-a ci
-b xxxxx
-s mccccccxxxii
+s 1632
+a 101
+b 50
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-s mccccccxxxii
-a ci
-b xxxxxi
-s mccccccxxxii
+s 1632
+a 101
+b 51
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b cxxxiiii
-s mccccccxxxii
+a 68
+b 134
+s 1632
 B
 A
-a xxxxxiiiiiii
-b cxiii
-s mccccccxxxii
+a 57
+b 113
+s 1632
 B
 A
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a c
-b xxxxx
-s mccccccxxxii
+s 1632
+a 100
+b 50
+s 1632
 B
 A
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a cii
-b xxxxxi
-s mccccccxxxii
+s 1632
+a 102
+b 51
+s 1632
 B
 A
-a cxxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 134
+b 68
+s 1632
 B
 A
-a cxii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 112
+b 57
+s 1632
 A
 B
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a xxxxx
-b cii
-s mccccccxxxii
+a 50
+b 102
+s 1632
 B
 A
-a cxii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 112
+b 57
+s 1632
 B
 A
-a xxxxxi
-b cii
-s mccccccxxxii
+a 51
+b 102
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 76
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxxii
-s mccccccxxxii
+a 86
+b 42
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 A
 B
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a xxxxx
-b c
-s mccccccxxxii
+s 1632
+a 50
+b 100
+s 1632
 B
 A
-a xxxxxi
-b c
-s mccccccxxxii
+a 51
+b 100
+s 1632
 B
 A
-s mccccccxxxii
-a ci
-b xxxxx
-s mccccccxxxii
+s 1632
+a 101
+b 50
+s 1632
 B
 A
-a cxxxii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 132
+b 68
+s 1632
 A
 B
-a cxiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 114
+b 57
+s 1632
 B
 A
-a xxxxx
-b cii
-s mccccccxxxii
+a 50
+b 102
+s 1632
 B
 A
-s mccccccxxxii
-a xxxxxi
-b ci
-s mccccccxxxii
+s 1632
+a 51
+b 101
+s 1632
 B
 A
-a cii
-b xxxxx
-s mccccccxxxii
+a 102
+b 50
+s 1632
 A
 B
-s mccccccxxxii
-a xxxxxi
-b cii
-s mccccccxxxii
+s 1632
+a 51
+b 102
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b cxxxiiii
-s mccccccxxxii
+a 67
+b 134
+s 1632
 B
 A
-a xxxxxiiiiiii
-b cxiii
-s mccccccxxxii
+a 57
+b 113
+s 1632
 B
 A
-a cii
-b xxxxxi
-s mccccccxxxii
+a 102
+b 51
+s 1632
 A
 B
-s mccccccxxxii
-a ci
-b xxxxx
-s mccccccxxxii
+s 1632
+a 101
+b 50
+s 1632
 B
 A
-a ci
-b xxxxxi
-s mccccccxxxii
+a 101
+b 51
+s 1632
 B
 A
-s mccccccxxxii
-a cii
-b xxxxxi
-s mccccccxxxii
+s 1632
+a 102
+b 51
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b cxxxiiii
-s mccccccxxxii
+a 68
+b 134
+s 1632
 A
 B
-a cxiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 114
+b 57
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 85
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 B
 A
-a xxxxii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 42
+b 85
+s 1632
 B
 A
-a xxxxii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 42
+b 85
+s 1632
 B
 A
-a xxxxxxxxx
-b xxxxiiiii
-s mccccccxxxii
+a 90
+b 45
+s 1632
 A
 B
-a xxxxxxxxiiiiii
-b xxxxii
-s mccccccxxxii
+a 86
+b 42
+s 1632
 B
 A
-a cii
-b xxxxx
-s mccccccxxxii
+a 102
+b 50
+s 1632
 B
 A
-a xxxxx
-b ci
-s mccccccxxxii
+a 50
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a cii
-b xxxxii
-s mccccccxxxii
+a 102
+b 42
+s 1632
 B
 A
-a cii
-b xxxxii
-s mccccccxxxii
+a 102
+b 42
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 68
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 38
+b 67
+s 1632
 B
 A
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 A
 B
-a xxiiiii
-b cii
-s mccccccxxxii
+a 25
+b 102
+s 1632
 B
 A
-a cii
-b xxiiiii
-s mccccccxxxii
+a 102
+b 25
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 A
 B
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 B
 A
-a c
-b xxxxxi
-s mccccccxxxii
+a 100
+b 51
+s 1632
 A
 B
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 A
 B
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 38
+b 67
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a ci
-b xxxxiii
-s mccccccxxxii
+a 101
+b 43
+s 1632
 B
 A
-a xxxxii
-b cii
-s mccccccxxxii
+a 42
+b 102
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 67
+b 45
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 128
+b 51
+s 1632
 A
 B
-a cxxiiiiiii
-b xxxxx
-s mccccccxxxii
+a 127
+b 50
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 45
+b 85
+s 1632
 A
 B
-a cxxiiiii
-b xxxxii
-s mccccccxxxii
+a 125
+b 42
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxxii
-s mccccccxxxii
+a 128
+b 42
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 128
+b 34
+s 1632
 B
 A
-a cxxiiiii
-s mccccccxxxii
+a 125
+s 1632
 A
-a xxxxxxxxiiiiii
-s mccccccxxxii
+a 86
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiii
-s mccccccxxxii
+a 34
+b 84
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiii
-s mccccccxxxii
+a 38
+b 125
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 38
+b 128
+s 1632
 A
 B
-a xxxxiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 85
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 43
+b 86
+s 1632
 B
 A
-a xxxxiiiii
-b cxii
-s mccccccxxxii
+a 45
+b 112
+s 1632
 B
 A
-a cxiiii
-b xxxxiiiii
-s mccccccxxxii
+a 114
+b 45
+s 1632
 B
 A
-a xxxxxi
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 51
+b 76
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxxxxi
-s mccccccxxxii
+a 76
+b 51
+s 1632
 B
 A
-a cxii
-b xxxxiiiii
-s mccccccxxxii
+a 112
+b 45
+s 1632
 A
 B
-a cxiiii
-b xxxxiiiii
-s mccccccxxxii
+a 114
+b 45
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 76
+b 43
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 75
+s 1632
 A
 B
-a ciiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 107
+b 45
+s 1632
 A
 B
-a xxxxiiiii
-b ciiiiiii
-s mccccccxxxii
+a 45
+b 107
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxx
-s mccccccxxxii
+a 67
+b 50
+s 1632
 A
 B
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a ciiiiii
-b xxxxxiii
-s mccccccxxxii
+a 106
+b 53
+s 1632
 A
 B
-a xxxxxiiii
-b ciiiiiiii
-s mccccccxxxii
+a 54
+b 108
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 67
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 A
 B
-a ci
-b xxxxxi
-s mccccccxxxii
+a 101
+b 51
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a ci
-b xxxxii
-s mccccccxxxii
+a 101
+b 42
+s 1632
 A
 B
-a xxxxiii
-b cii
-s mccccccxxxii
+a 43
+b 102
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 A
 B
-a xxxiiii
-b ci
-s mccccccxxxii
+a 34
+b 101
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 B
 A
-a xxiiiii
-b ci
-s mccccccxxxii
+a 25
+b 101
+s 1632
 B
 A
-a xxiiiii
-b ci
-s mccccccxxxii
+a 25
+b 101
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 28
+b 68
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 B
 A
-a ci
-b xxxxx
-s mccccccxxxii
+a 101
+b 50
+s 1632
 A
 B
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxxx
-s mccccccxxxii
+a 68
+b 50
+s 1632
 A
 B
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 B
 A
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 68
+b 38
+s 1632
 B
 A
-a cii
-b xxxxiii
-s mccccccxxxii
+a 102
+b 43
+s 1632
 B
 A
-a cii
-b xxxxii
-s mccccccxxxii
+a 102
+b 42
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 45
+b 67
+s 1632
 A
 B
-a cxxiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 127
+b 51
+s 1632
 B
 A
-a cxxiiiiii
-b xxxxxi
-s mccccccxxxii
+a 126
+b 51
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 45
+b 86
+s 1632
 A
 B
-a xxxxxxxxiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 86
+b 45
+s 1632
 B
 A
-a cxxiiiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 129
+b 43
+s 1632
 A
 B
-a cxxiiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 128
+b 43
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 86
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 A
 B
-a xxxiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 34
+b 128
+s 1632
 B
 A
-a cxxiiiiiii
-s mccccccxxxii
+a 127
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 A
 B
-a cxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 125
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 38
+b 128
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 85
+s 1632
 B
 A
-a xxxxii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 42
+b 85
+s 1632
 B
 A
-a xxxxiiiii
-b cxiiii
-s mccccccxxxii
+a 45
+b 114
+s 1632
 A
 B
-a cxiiii
-s mccccccxxxii
+a 114
+s 1632
 A
-a xxxxxxxiiiii
-s mccccccxxxii
+a 75
+s 1632
 A
-a xxxxiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 45
+b 76
+s 1632
 B
 A
-a xxxxiii
-b cxiiii
-s mccccccxxxii
+a 43
+b 114
+s 1632
 B
 A
-a cxii
-s mccccccxxxii
+a 112
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxxiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 43
+b 76
+s 1632
 A
 B
-a xxxiiiiiiii
-b ciiiiiii
-s mccccccxxxii
+a 38
+b 107
+s 1632
 B
 A
-a ciiiiiii
-s mccccccxxxii
+a 107
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a ciiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 108
+b 34
+s 1632
 A
 B
-a ciiiiiii
-s mccccccxxxii
+a 107
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a cii
-b xxxxiii
-s mccccccxxxii
+a 102
+b 43
+s 1632
 B
 A
-a xxxxiii
-b ci
-s mccccccxxxii
+a 43
+b 101
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a xxiiiii
-b cii
-s mccccccxxxii
+a 25
+b 102
+s 1632
 B
 A
-a xxiiiii
-b c
-s mccccccxxxii
+a 25
+b 100
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 28
+b 67
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 A
 B
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 A
 B
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 38
+b 67
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a c
-b xxxxiii
-s mccccccxxxii
+a 100
+b 43
+s 1632
 A
 B
-a cii
-b xxxxii
-s mccccccxxxii
+a 102
+b 42
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxxi
-b cxxiiiiiii
-s mccccccxxxii
+a 51
+b 127
+s 1632
 A
 B
-a xxxxxi
-b cxxiiiiiii
-s mccccccxxxii
+a 51
+b 127
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 B
 A
-a xxxxiii
-b cxxiiiii
-s mccccccxxxii
+a 43
+b 125
+s 1632
 A
 B
-a cxxiiiiiiii
-b xxxxii
-s mccccccxxxii
+a 128
+b 42
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 86
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiiiiii
-s mccccccxxxii
+a 34
+b 129
+s 1632
 B
 A
-a cxxiiiii
-s mccccccxxxii
+a 125
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 85
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiii
-s mccccccxxxii
+a 38
+b 126
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 38
+b 128
+s 1632
 A
 B
-a xxxxxxxxiiii
-b xxxxii
-s mccccccxxxii
+a 84
+b 42
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiii
-s mccccccxxxii
+a 85
+b 43
+s 1632
 B
 A
-a cxii
-b xxxxiiiii
-s mccccccxxxii
+a 112
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b cxiiiii
-s mccccccxxxii
+a 45
+b 115
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxxxxi
-s mccccccxxxii
+a 76
+b 51
+s 1632
 B
 A
-a xxxxxi
-b xxxxxxxiiiii
-s mccccccxxxii
+a 51
+b 75
+s 1632
 B
 A
-a cxiii
-b xxxxiiiii
-s mccccccxxxii
+a 113
+b 45
+s 1632
 B
 A
-a cxii
-b xxxxiiiii
-s mccccccxxxii
+a 112
+b 45
+s 1632
 A
 B
-a xxxxii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 42
+b 76
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxxxii
-s mccccccxxxii
+a 75
+b 42
+s 1632
 B
 A
-a xxxxiiiii
-b ciiiiiiii
-s mccccccxxxii
+a 45
+b 108
+s 1632
 B
 A
-a xxxxiiiii
-b ciiiiiii
-s mccccccxxxii
+a 45
+b 107
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 67
+b 51
+s 1632
 A
 B
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 A
 B
-a xxxxxiii
-b ciiiiiiii
-s mccccccxxxii
+a 53
+b 108
+s 1632
 B
 A
-a xxxxxiiii
-b ciiiiii
-s mccccccxxxii
+a 54
+b 106
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a cii
-b xxxxxi
-s mccccccxxxii
+a 102
+b 51
+s 1632
 B
 A
-a xxxxx
-b ci
-s mccccccxxxii
+a 50
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 68
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a xxxxii
-b ci
-s mccccccxxxii
+a 42
+b 101
+s 1632
 B
 A
-a cii
-b xxxxiii
-s mccccccxxxii
+a 102
+b 43
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 38
+b 67
+s 1632
 B
 A
-a xxxiiii
-b ci
-s mccccccxxxii
+a 34
+b 101
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 B
 A
-a c
-b xxiiiii
-s mccccccxxxii
+a 100
+b 25
+s 1632
 B
 A
-a c
-b xxiiiii
-s mccccccxxxii
+a 100
+b 25
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a c
-b xxxiiii
-s mccccccxxxii
+a 100
+b 34
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 A
 B
-a c
-b xxxxx
-s mccccccxxxii
+a 100
+b 50
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 B
 A
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 A
 B
-a ci
-b xxxiiii
-s mccccccxxxii
+a 101
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 38
+b 68
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 38
+b 67
+s 1632
 B
 A
-a xxxxii
-b cii
-s mccccccxxxii
+a 42
+b 102
+s 1632
 A
 B
-a xxxxiii
-b c
-s mccccccxxxii
+a 43
+b 100
+s 1632
 A
 B
-a xxxxiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 45
+b 68
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 45
+b 67
+s 1632
 B
 A
-a xxxxx
-b cxxiiiiiiii
-s mccccccxxxii
+a 50
+b 128
+s 1632
 B
 A
-a xxxxxi
-b cxxiiiiii
-s mccccccxxxii
+a 51
+b 126
+s 1632
 B
 A
-a xxxxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 45
+b 85
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 85
+b 45
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxxii
-s mccccccxxxii
+a 128
+b 42
+s 1632
 B
 A
-a xxxxii
-b cxxiiiii
-s mccccccxxxii
+a 42
+b 125
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 84
+b 38
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiii
-s mccccccxxxii
+a 34
+b 125
+s 1632
 A
 B
-a cxxiiiiiiiii
-s mccccccxxxii
+a 129
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a cxxiiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 129
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiiiii
-s mccccccxxxii
+a 38
+b 129
+s 1632
 A
 B
-a xxxxxxxxiiiii
-b xxxxiii
-s mccccccxxxii
+a 85
+b 43
+s 1632
 A
 B
-a xxxxiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 43
+b 86
+s 1632
 B
 A
-a xxxxiiiii
-b cxiii
-s mccccccxxxii
+a 45
+b 113
+s 1632
 B
 A
-a cxiii
-s mccccccxxxii
+a 113
+s 1632
 A
-a xxxxxxxiiiii
-s mccccccxxxii
+a 75
+s 1632
 A
-a xxxxxxxiiiiii
-b xxxxiiiii
-s mccccccxxxii
+a 76
+b 45
+s 1632
 B
 A
-a xxxxii
-b cxii
-s mccccccxxxii
+a 42
+b 112
+s 1632
 B
 A
-a cxiii
-s mccccccxxxii
+a 113
+s 1632
 A
-a xxxxxxxiiiii
-s mccccccxxxii
+a 75
+s 1632
 A
-a xxxxiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 75
+s 1632
 B
 A
-a xxxiiiiiiii
-b ciiiiiii
-s mccccccxxxii
+a 38
+b 107
+s 1632
 A
 B
-a ciiiiii
-s mccccccxxxii
+a 106
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 67
+b 38
+s 1632
 B
 A
-a xxxiiii
-b ciiiiii
-s mccccccxxxii
+a 34
+b 106
+s 1632
 B
 A
-a ciiiiiii
-s mccccccxxxii
+a 107
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 B
 A
-a xxiiiiiiii
-b cxxiiiiiiiii
-s mccccccxxxii
+a 28
+b 129
+s 1632
 B
 A
-a xxiiiiiiii
-b cxxiiiiii
-s mccccccxxxii
+a 28
+b 126
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 25
+b 85
+s 1632
 A
 B
-a xxxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 86
+b 25
+s 1632
 B
 A
-a cxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 126
+b 34
+s 1632
 B
 A
-a cxxiiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 129
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 B
 A
-a cxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 127
+b 34
+s 1632
 B
 A
-a cxxiiiiiiii
-s mccccccxxxii
+a 128
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 A
 B
-a cxxiiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 129
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiii
-s mccccccxxxii
+a 38
+b 127
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 86
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 A
 B
-a cxiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 114
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b cxii
-s mccccccxxxii
+a 28
+b 112
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 76
+b 25
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxiiiii
-s mccccccxxxii
+a 75
+b 25
+s 1632
 A
 B
-a cxiiii
-b xxxiiii
-s mccccccxxxii
+a 114
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cxiiii
-s mccccccxxxii
+a 34
+b 114
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 A
 B
-a cxiii
-b xxxiiii
-s mccccccxxxii
+a 113
+b 34
+s 1632
 B
 A
-a cxiiii
-s mccccccxxxii
+a 114
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 76
+b 34
+s 1632
 B
 A
-a cxiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 113
+b 38
+s 1632
 A
 B
-a cxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 115
+b 38
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 76
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 75
+s 1632
 B
 A
-a cii
-b xxxiiiiiiii
-s mccccccxxxii
+a 102
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b c
-s mccccccxxxii
+a 38
+b 100
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 67
+b 43
+s 1632
 B
 A
-a xxxxii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 42
+b 67
+s 1632
 B
 A
-a cii
-b xxxxiiiii
-s mccccccxxxii
+a 102
+b 45
+s 1632
 B
 A
-a xxxxiiiii
-b c
-s mccccccxxxii
+a 45
+b 100
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 68
+b 57
+s 1632
 B
 A
-a xxxxxiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 57
+b 67
+s 1632
 B
 A
-a xxxxx
-b ci
-s mccccccxxxii
+a 50
+b 101
+s 1632
 A
 B
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a xxxxxiiiiiii
-b cii
-s mccccccxxxii
+a 57
+b 102
+s 1632
 B
 A
-a xxxxxiiiiii
-b c
-s mccccccxxxii
+a 56
+b 100
+s 1632
 A
 B
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 68
+b 51
+s 1632
 B
 A
-a xxxxiiiii
-b ci
-s mccccccxxxii
+a 45
+b 101
+s 1632
 B
 A
-a xxxxiiiii
-b c
-s mccccccxxxii
+a 45
+b 100
+s 1632
 A
 B
-a xxxxiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 43
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxii
-s mccccccxxxii
+a 67
+b 42
+s 1632
 B
 A
-a c
-b xxxiiiiiiii
-s mccccccxxxii
+a 100
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 A
 B
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a ci
-b xxxxxi
-s mccccccxxxii
+a 101
+b 51
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a xxxiiii
-b c
-s mccccccxxxii
+a 34
+b 100
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 68
+b 28
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 128
+b 28
+s 1632
 B
 A
-a cxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 127
+b 28
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 25
+b 86
+s 1632
 A
 B
-a xxxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 86
+b 25
+s 1632
 B
 A
-a cxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 126
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiii
-s mccccccxxxii
+a 34
+b 126
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 85
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 86
+s 1632
 B
 A
-a cxxiiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 129
+b 34
+s 1632
 B
 A
-a cxxiiiiii
-s mccccccxxxii
+a 126
+s 1632
 A
-a xxxxxxxxiiiiii
-s mccccccxxxii
+a 86
+s 1632
 A
-a xxxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 85
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiii
-s mccccccxxxii
+a 38
+b 125
+s 1632
 A
 B
-a cxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 125
+b 38
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxxiiii
-s mccccccxxxii
+a 84
+b 34
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 85
+b 34
+s 1632
 B
 A
-a xxiiiiiiii
-b cxiiii
-s mccccccxxxii
+a 28
+b 114
+s 1632
 A
 B
-a cxiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 114
+b 28
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxiiiii
-s mccccccxxxii
+a 75
+b 25
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 25
+b 76
+s 1632
 B
 A
-a cxiiii
-b xxxiiii
-s mccccccxxxii
+a 114
+b 34
+s 1632
 A
 B
-a cxiiii
-b xxxiiii
-s mccccccxxxii
+a 114
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 B
 A
-a cxiiii
-b xxxiiii
-s mccccccxxxii
+a 114
+b 34
+s 1632
 A
 B
-a cxii
-s mccccccxxxii
+a 112
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 76
+s 1632
 B
 A
-a cxii
-b xxxiiiiiiii
-s mccccccxxxii
+a 112
+b 38
+s 1632
 B
 A
-a cxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 115
+b 38
+s 1632
 A
 B
-a xxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 75
+b 34
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 75
+b 34
+s 1632
 B
 A
-a xxxiiiiiiii
-b cii
-s mccccccxxxii
+a 38
+b 102
+s 1632
 B
 A
-a c
-b xxxiiiiiiii
-s mccccccxxxii
+a 100
+b 38
+s 1632
 A
 B
-a xxxxii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 42
+b 67
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 43
+b 67
+s 1632
 B
 A
-a xxxxiiiii
-b ci
-s mccccccxxxii
+a 45
+b 101
+s 1632
 B
 A
-a xxxxiiiii
-b ci
-s mccccccxxxii
+a 45
+b 101
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 68
+b 57
+s 1632
 B
 A
-a xxxxxiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 57
+b 67
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxx
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 50
+b 67
+s 1632
 B
 A
-a ci
-b xxxxxiiiiiii
-s mccccccxxxii
+a 101
+b 57
+s 1632
 B
 A
-a ci
-b xxxxxiiiiiii
-s mccccccxxxii
+a 101
+b 57
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 68
+b 51
+s 1632
 A
 B
-a xxxxxi
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 51
+b 67
+s 1632
 B
 A
-a cii
-b xxxxiiiii
-s mccccccxxxii
+a 102
+b 45
+s 1632
 B
 A
-a ci
-b xxxxiiiii
-s mccccccxxxii
+a 101
+b 45
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 43
+b 67
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxiii
-s mccccccxxxii
+a 68
+b 43
+s 1632
 B
 A
-a cii
-b xxxiiiiiiii
-s mccccccxxxii
+a 102
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b c
-s mccccccxxxii
+a 38
+b 100
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 A
 B
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a xxxxx
-b ci
-s mccccccxxxii
+a 50
+b 101
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxx
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 50
+b 68
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 28
+b 67
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 A
 B
-a cxxiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 126
+b 28
+s 1632
 B
 A
-a cxxiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 126
+b 28
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxxiiii
-s mccccccxxxii
+a 25
+b 84
+s 1632
 B
 A
-a xxiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 25
+b 85
+s 1632
 A
 B
-a cxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 127
+b 34
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 128
+b 34
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 85
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 85
+s 1632
 A
 B
-a cxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 128
+b 34
+s 1632
 B
 A
-a cxxiiiiii
-s mccccccxxxii
+a 126
+s 1632
 A
-a xxxxxxxxiiii
-s mccccccxxxii
+a 84
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 86
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 38
+b 128
+s 1632
 A
 B
-a xxxiiiiiiii
-b cxxiiiiiii
-s mccccccxxxii
+a 38
+b 127
+s 1632
 A
 B
-a xxxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 85
+b 34
+s 1632
 B
 A
-a xxxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 86
+b 34
+s 1632
 B
 A
-a cxiii
-b xxiiiiiiii
-s mccccccxxxii
+a 113
+b 28
+s 1632
 A
 B
-a cxiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 114
+b 28
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 76
+b 25
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 76
+b 25
+s 1632
 B
 A
-a xxxiiii
-b cxii
-s mccccccxxxii
+a 34
+b 112
+s 1632
 B
 A
-a cxiii
-b xxxiiii
-s mccccccxxxii
+a 113
+b 34
+s 1632
 A
 B
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 38
+b 76
+s 1632
 A
 B
-a cxiiii
-b xxxiiii
-s mccccccxxxii
+a 114
+b 34
+s 1632
 A
 B
-a cxiii
-s mccccccxxxii
+a 113
+s 1632
 A
-a xxxxxxxiiiiii
-s mccccccxxxii
+a 76
+s 1632
 A
-a xxxxxxxiiiiii
-b xxxiiii
-s mccccccxxxii
+a 76
+b 34
+s 1632
 A
 B
-a cxiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 113
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b cxiiii
-s mccccccxxxii
+a 38
+b 114
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 75
+b 34
+s 1632
 A
 B
-a xxxxxxxiiiii
-b xxxiiii
-s mccccccxxxii
+a 75
+b 34
+s 1632
 B
 A
-a cii
-b xxxiiiiiiii
-s mccccccxxxii
+a 102
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxii
-s mccccccxxxii
+a 67
+b 42
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 43
+b 68
+s 1632
 A
 B
-a xxxxiiiii
-b cii
-s mccccccxxxii
+a 45
+b 102
+s 1632
 B
 A
-a cii
-b xxxxiiiii
-s mccccccxxxii
+a 102
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 68
+b 57
+s 1632
 A
 B
-a xxxxxiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 57
+b 68
+s 1632
 B
 A
-a xxxxxi
-b ci
-s mccccccxxxii
+a 51
+b 101
+s 1632
 B
 A
-a c
-s mccccccxxxii
+a 100
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 68
+b 51
+s 1632
 B
 A
-a ci
-b xxxxxiiiiiii
-s mccccccxxxii
+a 101
+b 57
+s 1632
 B
 A
-a xxxxxiiiiiii
-b ci
-s mccccccxxxii
+a 57
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxx
-s mccccccxxxii
+a 67
+b 50
+s 1632
 B
 A
-a xxxxx
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 50
+b 68
+s 1632
 B
 A
-a cii
-b xxxxiiiii
-s mccccccxxxii
+a 102
+b 45
+s 1632
 A
 B
-a xxxxiiiii
-b ci
-s mccccccxxxii
+a 45
+b 101
+s 1632
 B
 A
-a xxxxii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 42
+b 68
+s 1632
 B
 A
-a xxxxii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 42
+b 67
+s 1632
 B
 A
-a c
-b xxxiiiiiiii
-s mccccccxxxii
+a 100
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 A
 B
-a xxxiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 34
+b 68
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 68
+b 34
+s 1632
 A
 B
-a xxxxx
-b c
-s mccccccxxxii
+a 50
+b 100
+s 1632
 B
 A
-a ci
-s mccccccxxxii
+a 101
+s 1632
 A
-a xxxxxxiiiiiiii
-s mccccccxxxii
+a 68
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxxxi
-s mccccccxxxii
+a 67
+b 51
+s 1632
 A
 B
-a xxxiiii
-b ci
-s mccccccxxxii
+a 34
+b 101
+s 1632
 B
 A
-a cii
-b xxxiiii
-s mccccccxxxii
+a 102
+b 34
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 A
 B
-a xxxxxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 67
+b 28
+s 1632
 B
 A
-a xxiiiiiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 28
+b 128
+s 1632
 A
 B
-a cxxiiiiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 127
+b 28
+s 1632
 B
 A
-a xxxxxxxxiiiii
-b xxiiiii
-s mccccccxxxii
+a 85
+b 25
+s 1632
 B
 A
-a xxxxxxxxiiii
-b xxiiiii
-s mccccccxxxii
+a 84
+b 25
+s 1632
 A
 B
-a cxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 127
+b 34
+s 1632
 B
 A
-a xxxiiii
-b cxxiiiiiiii
-s mccccccxxxii
+a 34
+b 128
+s 1632
 A
 B
-a xxxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 86
+b 38
+s 1632
 A
 B
-a xxxxxxxxiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 85
+b 38
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 128
+b 34
+s 1632
 A
 B
-a cxxiiiii
-s mccccccxxxii
+a 125
+s 1632
 A
-a xxxxxxxxiiiii
-s mccccccxxxii
+a 85
+s 1632
 A
-a xxxiiii
-b xxxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 86
+s 1632
 B
 A
-a cxxiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 128
+b 38
+s 1632
 A
 B
-a cxxiiiiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 129
+b 38
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxxxiiiii
-s mccccccxxxii
+a 34
+b 85
+s 1632
 B
 A
-a cxii
-b xxiiiiiiii
-s mccccccxxxii
+a 112
+b 28
+s 1632
 B
 A
-a cxiiii
-b xxiiiiiiii
-s mccccccxxxii
+a 114
+b 28
+s 1632
 A
 B
-a xxxxxxxiiiiii
-b xxiiiii
-s mccccccxxxii
+a 76
+b 25
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxiiiii
-s mccccccxxxii
+a 75
+b 25
+s 1632
 B
 A
-a cxiiiii
-b xxxiiii
-s mccccccxxxii
+a 115
+b 34
+s 1632
 A
 B
-a cxii
-b xxxiiii
-s mccccccxxxii
+a 112
+b 34
+s 1632
 B
 A
-a xxxxxxxiiiiii
-b xxxiiiiiiii
-s mccccccxxxii
+a 76
+b 38
+s 1632
 B
 A
-a xxxiiiiiiii
-b xxxxxxxiiiii
-s mccccccxxxii
+a 38
+b 75
+s 1632
 A
 B
-a cxiiii
-b xxxiiii
-s mccccccxxxii
+a 114
+b 34
+s 1632
 B
 A
-a cxiiiii
-s mccccccxxxii
+a 115
+s 1632
 A
-a xxxxxxxiiiii
-s mccccccxxxii
+a 75
+s 1632
 A
-a xxxiiii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 34
+b 76
+s 1632
 B
 A
-a xxiiiii
-b cxiii
-s mccccccxxxii
+a 25
+b 113
+s 1632
 B
 A
-a cxiii
-b xxiiiii
-s mccccccxxxii
+a 113
+b 25
+s 1632
 B
 A
-a xxxxxxxiiiii
-b xxii
-s mccccccxxxii
+a 75
+b 22
+s 1632
 A
 B
-a xxii
-b xxxxxxxiiiiii
-s mccccccxxxii
+a 22
+b 76
+s 1632
 B
 A
-a cii
-b xxi
-s mccccccxxxii
+a 102
+b 21
+s 1632
 B
 A
-a xxi
-b ci
-s mccccccxxxii
+a 21
+b 101
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxii
-s mccccccxxxii
+a 68
+b 22
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxii
-s mccccccxxxii
+a 67
+b 22
+s 1632
 A
 B
-a ci
-b xxiiiii
-s mccccccxxxii
+a 101
+b 25
+s 1632
 B
 A
-a xxiiiii
-b cii
-s mccccccxxxii
+a 25
+b 102
+s 1632
 A
 B
-a xxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 28
+b 68
+s 1632
 B
 A
-a xxiiiiiiii
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 28
+b 68
+s 1632
 B
 A
-a xxxiiii
-b cii
-s mccccccxxxii
+a 34
+b 102
+s 1632
 A
 B
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 B
 A
-a c
-b xxxiiiiiiii
-s mccccccxxxii
+a 100
+b 38
+s 1632
 A
 B
-a xxxiiiiiiii
-b cii
-s mccccccxxxii
+a 38
+b 102
+s 1632
 B
 A
-a xxxiiii
-b xxxxxxiiiiiii
-s mccccccxxxii
+a 34
+b 67
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxiiii
-s mccccccxxxii
+a 67
+b 34
+s 1632
 A
 B
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 B
 A
-a xxxiiiiiiii
-b ci
-s mccccccxxxii
+a 38
+b 101
+s 1632
 A
 B
-a xxxxxxiiiiiiii
-b xxxxii
-s mccccccxxxii
+a 68
+b 42
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxii
-s mccccccxxxii
+a 67
+b 42
+s 1632
 B
 A
-a ci
-b xxxxiiiii
-s mccccccxxxii
+a 101
+b 45
+s 1632
 A
 B
-a cii
-b xxxxiiiii
-s mccccccxxxii
+a 102
+b 45
+s 1632
 B
 A
-a xxxxxxiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 67
+b 57
+s 1632
 B
 A
-a xxxxxxiiiiiiii
-b xxxxxiiiiiii
-s mccccccxxxii
+a 68
+b 57
+s 1632
 B
 A
-a ci
-b xxxxxi
-s mccccccxxxii
+a 101
+b 51
+s 1632
 B
 A
-a cii
-s mccccccxxxii
+a 102
+s 1632
 A
-a xxxxxxiiiiiii
-s mccccccxxxii
+a 67
+s 1632
 A
-a xxxxxi
-b xxxxxxiiiiiiii
-s mccccccxxxii
+a 51
+b 68
+s 1632
 B
 A
-a xxxii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 32
+b 95
+s 1632
 B
 A
-a xxxii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 32
+b 95
+s 1632
 A
 B
-a xxxxxxiii
-b xxiiiiiii
-s mccccccxxxii
+a 63
+b 27
+s 1632
 B
 A
-a xxxxxxiii
-b xxiiiiiii
-s mccccccxxxii
+a 63
+b 27
+s 1632
 A
 B
-a xxiiiiiii
-b cxx
-s mccccccxxxii
+a 27
+b 120
+s 1632
 B
 A
-a cxxii
-b xxiiiiiii
-s mccccccxxxii
+a 122
+b 27
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxx
-s mccccccxxxii
+a 24
+b 80
+s 1632
 A
 B
-a xxiiii
-b xxxxxxxx
-s mccccccxxxii
+a 24
+b 80
+s 1632
 B
 A
-a cxiiiiiiiii
-b xxxii
-s mccccccxxxii
+a 119
+b 32
+s 1632
 B
 A
-a xxxii
-b cxxi
-s mccccccxxxii
+a 32
+b 121
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxx
-s mccccccxxxii
+a 36
+b 80
+s 1632
 B
 A
-a xxxxxxxxi
-b xxxiiiiii
-s mccccccxxxii
+a 81
+b 36
+s 1632
 B
 A
-a xxxii
-b cxxi
-s mccccccxxxii
+a 32
+b 121
+s 1632
 B
 A
-a cxx
-s mccccccxxxii
+a 120
+s 1632
 A
-a xxxxxxxxi
-s mccccccxxxii
+a 81
+s 1632
 A
-a xxxxxxxxi
-b xxxii
-s mccccccxxxii
+a 81
+b 32
+s 1632
 A
 B
-a cxxi
-b xxxiiiiii
-s mccccccxxxii
+a 121
+b 36
+s 1632
 B
 A
-a cxxi
-b xxxiiiiii
-s mccccccxxxii
+a 121
+b 36
+s 1632
 B
 A
-a xxxii
-b xxxxxxxxi
-s mccccccxxxii
+a 32
+b 81
+s 1632
 A
 B
-a xxxxxxxx
-b xxxii
-s mccccccxxxii
+a 80
+b 32
+s 1632
 B
 A
-a ciiiiiii
-b xxiiiiiii
-s mccccccxxxii
+a 107
+b 27
+s 1632
 B
 A
-a xxiiiiiii
-b ciiiiiiii
-s mccccccxxxii
+a 27
+b 108
+s 1632
 A
 B
-a xxiiii
-b xxxxxxxi
-s mccccccxxxii
+a 24
+b 71
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxi
-s mccccccxxxii
+a 24
+b 71
+s 1632
 B
 A
-a ciiiiii
-b xxxii
-s mccccccxxxii
+a 106
+b 32
+s 1632
 B
 A
-a xxxii
-b ciiiiiii
-s mccccccxxxii
+a 32
+b 107
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxi
-s mccccccxxxii
+a 36
+b 71
+s 1632
 B
 A
-a xxxxxxxi
-b xxxiiiiii
-s mccccccxxxii
+a 71
+b 36
+s 1632
 A
 B
-a xxxii
-b ciiiiii
-s mccccccxxxii
+a 32
+b 106
+s 1632
 B
 A
-a ciiiiii
-s mccccccxxxii
+a 106
+s 1632
 A
-a xxxxxxxii
-s mccccccxxxii
+a 72
+s 1632
 A
-a xxxii
-b xxxxxxxi
-s mccccccxxxii
+a 32
+b 71
+s 1632
 B
 A
-a ciiiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 108
+b 36
+s 1632
 B
 A
-a xxxiiiiii
-b ciiiiiii
-s mccccccxxxii
+a 36
+b 107
+s 1632
 A
 B
-a xxxxxxxi
-b xxxii
-s mccccccxxxii
+a 71
+b 32
+s 1632
 B
 A
-a xxxxxxxii
-b xxxii
-s mccccccxxxii
+a 72
+b 32
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 96
+b 36
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 96
+b 36
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxx
-s mccccccxxxii
+a 64
+b 40
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxx
-s mccccccxxxii
+a 64
+b 40
+s 1632
 A
 B
-a xxxxxxxxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 96
+b 43
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 43
+b 96
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxxiiii
-s mccccccxxxii
+a 64
+b 54
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxxiiii
-s mccccccxxxii
+a 64
+b 54
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxxiiiiiii
-s mccccccxxxii
+a 95
+b 47
+s 1632
 A
 B
-a xxxxxxxxxiiiii
-s mccccccxxxii
+a 95
+s 1632
 A
-a xxxxxxiiii
-s mccccccxxxii
+a 64
+s 1632
 A
-a xxxxiiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 48
+b 64
+s 1632
 A
 B
-a xxxxxiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 54
+b 95
+s 1632
 B
 A
-a xxxxxiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 54
+b 95
+s 1632
 B
 A
-a xxxxiiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 48
+b 64
+s 1632
 A
 B
-a xxxxxxiiii
-b xxxxiiiiiiii
-s mccccccxxxii
+a 64
+b 48
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 95
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxxii
-s mccccccxxxii
+a 95
+b 42
+s 1632
 A
 B
-a xxxx
-b xxxxxxiiii
-s mccccccxxxii
+a 40
+b 64
+s 1632
 B
 A
-a xxxx
-b xxxxxxiiii
-s mccccccxxxii
+a 40
+b 64
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 36
+b 95
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 36
+b 96
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxii
-s mccccccxxxii
+a 64
+b 32
+s 1632
 A
 B
-a xxxii
-b xxxxxxiii
-s mccccccxxxii
+a 32
+b 63
+s 1632
 B
 A
-a xxxxiiiiiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 48
+b 96
+s 1632
 A
 B
-a xxxxxxxxxiiiii
-s mccccccxxxii
+a 95
+s 1632
 A
-a xxxxxxiii
-s mccccccxxxii
+a 63
+s 1632
 A
-a xxxxiiiiiiii
-b xxxxxxiii
-s mccccccxxxii
+a 48
+b 63
+s 1632
 B
 A
-a xxxii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 32
+b 96
+s 1632
 A
 B
-a xxxii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 32
+b 95
+s 1632
 B
 A
-a xxiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 27
+b 64
+s 1632
 B
 A
-a xxxxxxiii
-b xxiiiiiii
-s mccccccxxxii
+a 63
+b 27
+s 1632
 A
 B
-a cxiiiiiiiii
-b xxiiiiiii
-s mccccccxxxii
+a 119
+b 27
+s 1632
 B
 A
-a cxx
-b xxiiiiiii
-s mccccccxxxii
+a 120
+b 27
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxxi
-s mccccccxxxii
+a 24
+b 81
+s 1632
 B
 A
-a xxxxxxxx
-b xxiiii
-s mccccccxxxii
+a 80
+b 24
+s 1632
 B
 A
-a cxx
-b xxxii
-s mccccccxxxii
+a 120
+b 32
+s 1632
 B
 A
-a cxxii
-b xxxii
-s mccccccxxxii
+a 122
+b 32
+s 1632
 A
 B
-a xxxxxxxx
-b xxxiiiiii
-s mccccccxxxii
+a 80
+b 36
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxx
-s mccccccxxxii
+a 36
+b 80
+s 1632
 B
 A
-a cxiiiiiiiii
-b xxxii
-s mccccccxxxii
+a 119
+b 32
+s 1632
 B
 A
-a cxx
-s mccccccxxxii
+a 120
+s 1632
 A
-a xxxxxxxx
-s mccccccxxxii
+a 80
+s 1632
 A
-a xxxxxxxx
-b xxxii
-s mccccccxxxii
+a 80
+b 32
+s 1632
 B
 A
-a cxxi
-b xxxiiiiii
-s mccccccxxxii
+a 121
+b 36
+s 1632
 B
 A
-a cxx
-b xxxiiiiii
-s mccccccxxxii
+a 120
+b 36
+s 1632
 B
 A
-a xxxii
-b xxxxxxxx
-s mccccccxxxii
+a 32
+b 80
+s 1632
 A
 B
-a xxxxxxxx
-b xxxii
-s mccccccxxxii
+a 80
+b 32
+s 1632
 B
 A
-a ciiiiiiii
-b xxiiiiiii
-s mccccccxxxii
+a 108
+b 27
+s 1632
 A
 B
-a ciiiiiii
-b xxiiiiiii
-s mccccccxxxii
+a 107
+b 27
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxii
-s mccccccxxxii
+a 24
+b 72
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxi
-s mccccccxxxii
+a 24
+b 71
+s 1632
 A
 B
-a ciiiiiii
-b xxxii
-s mccccccxxxii
+a 107
+b 32
+s 1632
 B
 A
-a xxxii
-b ciiiiiii
-s mccccccxxxii
+a 32
+b 107
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxi
-s mccccccxxxii
+a 36
+b 71
+s 1632
 A
 B
-a xxxxxxxii
-b xxxiiiiii
-s mccccccxxxii
+a 72
+b 36
+s 1632
 B
 A
-a xxxii
-b ciiiiiii
-s mccccccxxxii
+a 32
+b 107
+s 1632
 B
 A
-a ciiiiii
-s mccccccxxxii
+a 106
+s 1632
 A
-a xxxxxxxii
-s mccccccxxxii
+a 72
+s 1632
 A
-a xxxii
-b xxxxxxxii
-s mccccccxxxii
+a 32
+b 72
+s 1632
 B
 A
-a xxxiiiiii
-b ciiiiii
-s mccccccxxxii
+a 36
+b 106
+s 1632
 B
 A
-a ciiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 107
+b 36
+s 1632
 A
 B
-a xxxii
-b xxxxxxxii
-s mccccccxxxii
+a 32
+b 72
+s 1632
 B
 A
-a xxxxxxxi
-b xxxii
-s mccccccxxxii
+a 71
+b 32
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxxxiiii
-s mccccccxxxii
+a 36
+b 94
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 95
+b 36
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxx
-s mccccccxxxii
+a 64
+b 40
+s 1632
 A
 B
-a xxxx
-b xxxxxxiiii
-s mccccccxxxii
+a 40
+b 64
+s 1632
 B
 A
-a xxxxii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 42
+b 96
+s 1632
 A
 B
-a xxxxii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 42
+b 96
+s 1632
 B
 A
-a xxxxxiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 54
+b 64
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxxiii
-s mccccccxxxii
+a 64
+b 53
+s 1632
 A
 B
-a xxxxiiiiiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 48
+b 95
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-s mccccccxxxii
+a 95
+s 1632
 A
-a xxxxxxiiii
-s mccccccxxxii
+a 64
+s 1632
 A
-a xxxxxxiiii
-b xxxxiiiiiiii
-s mccccccxxxii
+a 64
+b 48
+s 1632
 A
 B
-a xxxxxxxxxiiiiiii
-b xxxxxiii
-s mccccccxxxii
+a 97
+b 53
+s 1632
 B
 A
-a xxxxxiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 54
+b 96
+s 1632
 A
 B
-a xxxxxxiiii
-b xxxxiiiiiiii
-s mccccccxxxii
+a 64
+b 48
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxiiiiiiii
-s mccccccxxxii
+a 64
+b 48
+s 1632
 B
 A
-a xxxxii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 42
+b 95
+s 1632
 A
 B
-a xxxxxxxxxiiiii
-b xxxxiii
-s mccccccxxxii
+a 95
+b 43
+s 1632
 B
 A
-a xxxxxxiii
-b xxxx
-s mccccccxxxii
+a 63
+b 40
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxx
-s mccccccxxxii
+a 64
+b 40
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 36
+b 96
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 96
+b 36
+s 1632
 A
 B
-a xxxii
-b xxxxxxiiii
-s mccccccxxxii
+a 32
+b 64
+s 1632
 B
 A
-a xxxii
-b xxxxxxiiii
-s mccccccxxxii
+a 32
+b 64
+s 1632
 B
 A
-a xxxxiiiiiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 48
+b 96
+s 1632
 A
 B
-a xxxxxxxxxiiii
-s mccccccxxxii
+a 94
+s 1632
 A
-a xxxxxxiiii
-s mccccccxxxii
+a 64
+s 1632
 A
-a xxxxiiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 48
+b 64
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxii
-s mccccccxxxii
+a 95
+b 32
+s 1632
 B
 A
-a xxxii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 32
+b 96
+s 1632
 B
 A
-a xxxxxxiii
-b xxiiiiiii
-s mccccccxxxii
+a 63
+b 27
+s 1632
 B
 A
-a xxiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 27
+b 64
+s 1632
 A
 B
-a cxxi
-b xxiiiiiii
-s mccccccxxxii
+a 121
+b 27
+s 1632
 B
 A
-a xxiiiiiii
-b cxxii
-s mccccccxxxii
+a 27
+b 122
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxx
-s mccccccxxxii
+a 24
+b 80
+s 1632
 B
 A
-a xxxxxxxx
-b xxiiii
-s mccccccxxxii
+a 80
+b 24
+s 1632
 B
 A
-a cxxi
-b xxxii
-s mccccccxxxii
+a 121
+b 32
+s 1632
 A
 B
-a cxiiiiiiiii
-b xxxii
-s mccccccxxxii
+a 119
+b 32
+s 1632
 B
 A
-a xxxxxxxxi
-b xxxiiiiii
-s mccccccxxxii
+a 81
+b 36
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxx
-s mccccccxxxii
+a 36
+b 80
+s 1632
 B
 A
-a xxxii
-b cxx
-s mccccccxxxii
+a 32
+b 120
+s 1632
 B
 A
-a cxx
-s mccccccxxxii
+a 120
+s 1632
 A
-a xxxxxxxxi
-s mccccccxxxii
+a 81
+s 1632
 A
-a xxxii
-b xxxxxxxxi
-s mccccccxxxii
+a 32
+b 81
+s 1632
 B
 A
-a cxx
-b xxxiiiiii
-s mccccccxxxii
+a 120
+b 36
+s 1632
 B
 A
-a cxxi
-b xxxiiiiii
-s mccccccxxxii
+a 121
+b 36
+s 1632
 A
 B
-a xxxii
-b xxxxxxxx
-s mccccccxxxii
+a 32
+b 80
+s 1632
 B
 A
-a xxxii
-b xxxxxxxx
-s mccccccxxxii
+a 32
+b 80
+s 1632
 A
 B
-a xxiiiiiii
-b ciiiiiiii
-s mccccccxxxii
+a 27
+b 108
+s 1632
 B
 A
-a ciiiiiii
-b xxiiiiiii
-s mccccccxxxii
+a 107
+b 27
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxii
-s mccccccxxxii
+a 24
+b 72
+s 1632
 A
 B
-a xxiiii
-b xxxxxxxii
-s mccccccxxxii
+a 24
+b 72
+s 1632
 B
 A
-a xxxii
-b ciiiiii
-s mccccccxxxii
+a 32
+b 106
+s 1632
 A
 B
-a ciiiiii
-b xxxii
-s mccccccxxxii
+a 106
+b 32
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxii
-s mccccccxxxii
+a 36
+b 72
+s 1632
 B
 A
-a xxxxxxxii
-b xxxiiiiii
-s mccccccxxxii
+a 72
+b 36
+s 1632
 A
 B
-a xxxii
-b ciiiiiiii
-s mccccccxxxii
+a 32
+b 108
+s 1632
 B
 A
-a ciiiiii
-s mccccccxxxii
+a 106
+s 1632
 A
-a xxxxxxxii
-s mccccccxxxii
+a 72
+s 1632
 A
-a xxxii
-b xxxxxxxii
-s mccccccxxxii
+a 32
+b 72
+s 1632
 A
 B
-a ciiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 107
+b 36
+s 1632
 B
 A
-a xxxiiiiii
-b ciiiiii
-s mccccccxxxii
+a 36
+b 106
+s 1632
 B
 A
-a xxxxxxxi
-b xxxii
-s mccccccxxxii
+a 71
+b 32
+s 1632
 B
 A
-a xxxii
-b xxxxxxxii
-s mccccccxxxii
+a 32
+b 72
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 95
+b 36
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 36
+b 96
+s 1632
 A
 B
-a xxxxxxiiii
-b xxxx
-s mccccccxxxii
+a 64
+b 40
+s 1632
 A
 B
-a xxxx
-b xxxxxxiiii
-s mccccccxxxii
+a 40
+b 64
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 96
+b 43
+s 1632
 A
 B
-a xxxxiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 43
+b 95
+s 1632
 B
 A
-a xxxxxiiii
-b xxxxxxiii
-s mccccccxxxii
+a 54
+b 63
+s 1632
 A
 B
-a xxxxxxiii
-b xxxxxiiii
-s mccccccxxxii
+a 63
+b 54
+s 1632
 B
 A
-a xxxxiiiiiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 48
+b 95
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-s mccccccxxxii
+a 96
+s 1632
 A
-a xxxxxxiiii
-s mccccccxxxii
+a 64
+s 1632
 A
-a xxxxiiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 48
+b 64
+s 1632
 B
 A
-a xxxxxiiii
-b xxxxxxxxxiiii
-s mccccccxxxii
+a 54
+b 94
+s 1632
 A
 B
-a xxxxxxxxxiiii
-b xxxxxiiii
-s mccccccxxxii
+a 94
+b 54
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxiiiiiiii
-s mccccccxxxii
+a 64
+b 48
+s 1632
 B
 A
-a xxxxiiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 48
+b 64
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxxiii
-s mccccccxxxii
+a 95
+b 43
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xxxxiii
-s mccccccxxxii
+a 96
+b 43
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxx
-s mccccccxxxii
+a 64
+b 40
+s 1632
 A
 B
-a xxxx
-b xxxxxxiii
-s mccccccxxxii
+a 40
+b 63
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 95
+b 36
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 36
+b 96
+s 1632
 B
 A
-a xxxii
-b xxxxxxiiii
-s mccccccxxxii
+a 32
+b 64
+s 1632
 B
 A
-a xxxxxxiii
-b xxxii
-s mccccccxxxii
+a 63
+b 32
+s 1632
 A
 B
-a xxxxiiiiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 47
+b 95
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-s mccccccxxxii
+a 95
+s 1632
 A
-a xxxxxxiiii
-s mccccccxxxii
+a 64
+s 1632
 A
-a xxxxiiiiiiii
-b xxxxxxiiii
-s mccccccxxxii
+a 48
+b 64
+s 1632
 A
 B
-a xxxxxxxxxiiiiii
-b xxxii
-s mccccccxxxii
+a 96
+b 32
+s 1632
 B
 A
-a xxxii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 32
+b 95
+s 1632
 A
 B
-a xxxxxxiiii
-b xxiiiiiii
-s mccccccxxxii
+a 64
+b 27
+s 1632
 B
 A
-a xxxxxxiii
-b xxiiiiiii
-s mccccccxxxii
+a 63
+b 27
+s 1632
 B
 A
-a cxiiiiiiii
-b xxiiiiiii
-s mccccccxxxii
+a 118
+b 27
+s 1632
 A
 B
-a cxxi
-b xxiiiiiii
-s mccccccxxxii
+a 121
+b 27
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxx
-s mccccccxxxii
+a 24
+b 80
+s 1632
 A
 B
-a xxxxxxxx
-b xxiiii
-s mccccccxxxii
+a 80
+b 24
+s 1632
 A
 B
-a cxx
-b xxxii
-s mccccccxxxii
+a 120
+b 32
+s 1632
 B
 A
-a cxiiiiiiii
-b xxxii
-s mccccccxxxii
+a 118
+b 32
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxx
-s mccccccxxxii
+a 36
+b 80
+s 1632
 B
 A
-a xxxxxxxx
-b xxxiiiiii
-s mccccccxxxii
+a 80
+b 36
+s 1632
 B
 A
-a xxxii
-b cxx
-s mccccccxxxii
+a 32
+b 120
+s 1632
 A
 B
-a cxiiiiiiii
-s mccccccxxxii
+a 118
+s 1632
 A
-a xxxxxxxx
-s mccccccxxxii
+a 80
+s 1632
 A
-a xxxxxxxx
-b xxxii
-s mccccccxxxii
+a 80
+b 32
+s 1632
 B
 A
-a cxiiiiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 119
+b 36
+s 1632
 B
 A
-a cxx
-b xxxiiiiii
-s mccccccxxxii
+a 120
+b 36
+s 1632
 B
 A
-a xxxii
-b xxxxxxxx
-s mccccccxxxii
+a 32
+b 80
+s 1632
 A
 B
-a xxxii
-b xxxxxxxx
-s mccccccxxxii
+a 32
+b 80
+s 1632
 A
 B
-a ciiiiii
-b xxiiiiiii
-s mccccccxxxii
+a 106
+b 27
+s 1632
 A
 B
-a xxiiiiiii
-b ciiiiiiii
-s mccccccxxxii
+a 27
+b 108
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxi
-s mccccccxxxii
+a 24
+b 71
+s 1632
 A
 B
-a xxiiii
-b xxxxxxxii
-s mccccccxxxii
+a 24
+b 72
+s 1632
 B
 A
-a ciiiiii
-b xxxii
-s mccccccxxxii
+a 106
+b 32
+s 1632
 A
 B
-a xxxii
-b ciiiiiii
-s mccccccxxxii
+a 32
+b 107
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxii
-s mccccccxxxii
+a 36
+b 72
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxii
-s mccccccxxxii
+a 36
+b 72
+s 1632
 A
 B
-a ciiiiiiii
-b xxxii
-s mccccccxxxii
+a 108
+b 32
+s 1632
 B
 A
-a ciiiiiiii
-s mccccccxxxii
+a 108
+s 1632
 A
-a xxxxxxxii
-s mccccccxxxii
+a 72
+s 1632
 A
-a xxxxxxxi
-b xxxii
-s mccccccxxxii
+a 71
+b 32
+s 1632
 A
 B
-a ciiiiiii
-b xxiiii
-s mccccccxxxii
+a 107
+b 24
+s 1632
 B
 A
-a ciiiiiii
-b xxiiii
-s mccccccxxxii
+a 107
+b 24
+s 1632
 A
 B
-a xxi
-b xxxxxxxii
-s mccccccxxxii
+a 21
+b 72
+s 1632
 B
 A
-a xxi
-b xxxxxxxi
-s mccccccxxxii
+a 21
+b 71
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xx
-s mccccccxxxii
+a 96
+b 20
+s 1632
 A
 B
-a xxxxxxxxxiiiiii
-b xx
-s mccccccxxxii
+a 96
+b 20
+s 1632
 B
 A
-a xxxxxxiiii
-b xxi
-s mccccccxxxii
+a 64
+b 21
+s 1632
 B
 A
-a xxxxxxiii
-b xxi
-s mccccccxxxii
+a 63
+b 21
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xxiiii
-s mccccccxxxii
+a 96
+b 24
+s 1632
 B
 A
-a xxiiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 24
+b 96
+s 1632
 B
 A
-a xxxxxxiiii
-b xxiiiiiii
-s mccccccxxxii
+a 64
+b 27
+s 1632
 A
 B
-a xxxxxxiiii
-b xxiiiiiii
-s mccccccxxxii
+a 64
+b 27
+s 1632
 B
 A
-a xxxii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 32
+b 96
+s 1632
 A
 B
-a xxxxxxxxxiiii
-s mccccccxxxii
+a 94
+s 1632
 A
-a xxxxxxiiii
-s mccccccxxxii
+a 64
+s 1632
 A
-a xxxxxxiiii
-b xxxii
-s mccccccxxxii
+a 64
+b 32
+s 1632
 B
 A
-a xxxxxxxxxiiiiii
-b xxxiiiiii
-s mccccccxxxii
+a 96
+b 36
+s 1632
 A
 B
-a xxxiiiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 36
+b 95
+s 1632
 B
 A
-a xxxii
-b xxxxxxiiii
-s mccccccxxxii
+a 32
+b 64
+s 1632
 B
 A
-a xxxii
-b xxxxxxiiii
-s mccccccxxxii
+a 32
+b 64
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxxxiiiii
-s mccccccxxxii
+a 36
+b 95
+s 1632
 B
 A
-a xxxiiiiii
-b xxxxxxxxxiiii
-s mccccccxxxii
+a 36
+b 94
+s 1632
 B
 A
-a xxxx
-b xxxxxxiiii
-s mccccccxxxii
+a 40
+b 64
+s 1632
 A
 B
-a xxxx
-b xxxxxxiiii
-s mccccccxxxii
+a 40
+b 64
+s 1632
 B
 A
-a xxxxiii
-b xxxxxxxxxiiiiii
-s mccccccxxxii
+a 43
+b 96
+s 1632
 B
 A
-a xxxxxxxxxiiiii
-b xxxxii
-s mccccccxxxii
+a 95
+b 42
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxxiii
-s mccccccxxxii
+a 64
+b 53
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxxiiii
-s mccccccxxxii
+a 64
+b 54
+s 1632
 B
 A
-a xxxxxxiiii
-b xxxxxxxxxiiii
-c xxxxiiiiiiii
-d xxxii
-s mccccccxxxii
+a 64
+b 94
+c 48
+d 32
+s 1632
 B
 A
 C
 D
-s mmmmmmmmmcccccccxxxxxxxxxiiiii
-a xxxxxxxxxiiiii
-b xxxxiiiiiiii
-c xxxii
-d xxxxxxiiii
-s mccccccxxxii
+s 9795
+a 95
+b 48
+c 32
+d 64
+s 1632
 D
 C
 B

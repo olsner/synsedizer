@@ -1,57 +1,57 @@
 r 8000
 
-a xxiiiiiii
-s mm
+a 27
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xxiiiiiii
-s mm
+s 666
+a 27
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xiiiiiiii
-s mm
+s 666
+a 18
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xiiiiiiii
-s mm
+s 666
+a 18
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xiiiiii
-s mm
+s 666
+a 16
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xiiiiii
-s mm
+s 666
+a 16
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xiiiiiiii
-s mmmm
+s 666
+a 18
+s 4000
 A
-s mcccxxxiii
-a xx
-s mm
+s 1333
+a 20
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xx
-s mm
+s 666
+a 20
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xxi
-s mm
+s 666
+a 21
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xxi
-s mm
+s 666
+a 21
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xxiiii
-s mm
+s 666
+a 24
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xxiiii
-s mm
+s 666
+a 24
+s 2000
 A
-s ccccccxxxxxxiiiiii
-a xxiiiiiii
-s mmmm
+s 666
+a 27
+s 4000
 A

@@ -1,37 +1,37 @@
 r 8000
 
-a xx
-s m
+a 20
+s 1000
 A
-a xiiiiiiiii
-s m
+a 19
+s 1000
 A
-a xiiiiiiii
-s m
+a 18
+s 1000
 A
-a xiiiiiii
-s m
+a 17
+s 1000
 A
-a xiiiiii
-s m
+a 16
+s 1000
 A
-a xiiiii
-s m
+a 15
+s 1000
 A
-a xx
-s m
+a 20
+s 1000
 A
-a xiiiiiiiii
-s m
+a 19
+s 1000
 A
-a xiiiiiiii
-s m
+a 18
+s 1000
 A
-a xiiiiiii
-s m
+a 17
+s 1000
 A
-a xiiiiii
-s m
+a 16
+s 1000
 A
-a xiiiii
-s m
+a 15
+s 1000
