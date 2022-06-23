@@ -53,7 +53,7 @@ specified by the `r` command at the start of the file.
 * `s N`: Sleeps for N cycles while outputting synsedized samples before reading
   the next command from the input.
 
-  For example, `s mmmmmmmm` with a 8kHz sample rate will sleep for 1 second.
+  For example, `s 8000` with a 8kHz sample rate will sleep for 1 second.
   The sleep command determines the note and rest lengths by spacing out the
   note on and off commands.
 
