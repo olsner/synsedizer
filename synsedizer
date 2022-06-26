@@ -72,11 +72,17 @@ behold
 :leep
 g
 
+# Add exactly one leading/trailing newline to simplify regexes below, and merge
+# consecutive newlines.
+s/^\n*/\n/
+s/\n*$/\n/
+s/\n+/\n/g
+
 # Remove old accumulator
-s/^Ai*(\n|$)//
+s/\nAi*\n/\n/
 
 # If sleep state is not present, read one line of input and process.
-/^S/M! {
+/\nS/! {
     beat
 }
 
@@ -90,27 +96,24 @@ s/^Ai*(\n|$)//
 #    g
 #}
 
-# Append initial accumulator value (5) at end, then shift through state list
-# from the start until we reach the accumulator again.
-s/\n*$/\nAiiiii/
+# decrement sleep counter
+s/\nS[0-9]+/&-/
+# add accumulator increment/decrement for each positive/negative wave, and add
+# decrement to wavelength counter.
+s/(\nW[^,]*,1,[^\n]+)/\1-\nAi/g
+s/(\nW[^,]*,0,[^\n]+)/\1-\nA-/g
 
-:loop
-# Strip leading newlines
-s/^\n+//
+# Initial accumulator value (5). Removes the initial \n, but we can also assume
+# that the accumulator is first from here on.
+s/^/Aiiiii/
 
-# Sleep state: shuffle to end of state and add decrement marker.
-/^S/ s/^(S[0-9]*)\n(.*)$/\2\n\1-/
-
-# Wave state: W<id>,<phase>,<next-phase>,<initial wavelength>,<counter>
-/^W/ {
-    # increment/decrement accumulator according to phase
-    /^W([^,]*),1,/ s/^A/Ai/mg
-    /^W([^,]*),0,/ s/^Ai/A/mg
-    # rotate and add decrement
-    s/^(W[^\n]+)\n(.*)$/\2\n\1-/
-}
-# Loop until the accumulator goes first
-/^A/! bloop
+# Add all increments/decrements to the accumulator, iterating until done.
+:inc_acc
+s/(Ai*)(\n.*\n)Ai\n/\1i\2/
+tinc_acc
+:dec_acc
+s/Ai(i*\n)(.*\n)A-\n/A\1\2/
+tdec_acc
 
 # Process all decrements
 :dec
@@ -135,9 +138,11 @@ tdec
 s/\nS0//g
 
 # any waves that have reached 0: reset WL counter to initial WL and flip phase
+# TODO Remove 'm' flag and rely on \n before/after each wave state.
 s/^(W[^,]*)(,[01])(,[01])(,[0-9]+),0$/\1\3\2\4\4/mg
 
-/^A/ {
+#/^A/ # accumulator is always first when we get here.
+{
     h
     # Strip away the non-accumulator part
     s/\n.*$//
