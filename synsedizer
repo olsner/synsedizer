@@ -1,7 +1,7 @@
 #!/usr/bin/env -S LC_CTYPE=C sed -rnf
 # Polyphonic synsedizer.
 
-:ehold
+:loop
 # Strip comment(s) and leading/trailing whitespace
 s/#.*$//g
 s/^\s+//
@@ -67,7 +67,7 @@ s/\s+$//
 :eat
 z
 n
-behold
+bloop
 
 :leep
 g
