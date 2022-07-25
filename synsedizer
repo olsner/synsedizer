@@ -1,4 +1,4 @@
-#!/usr/bin/env -S sed -rnf
+#!/usr/bin/env -S LC_CTYPE=C sed -rnf
 # Polyphonic synsedizer.
 
 :ehold
