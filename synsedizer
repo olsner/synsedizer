@@ -82,9 +82,7 @@ s/\n+/\n/g
 s/\nAi*\n/\n/
 
 # If sleep state is not present, read one line of input and process.
-/\nS/! {
-    beat
-}
+/\nS/! beat
 
 # Debug trace
 #{
@@ -100,20 +98,24 @@ s/\nAi*\n/\n/
 s/\nS[0-9]+/&-/
 # add accumulator increment/decrement for each positive/negative wave, and add
 # decrement to wavelength counter.
-s/(\nW[^,]*,1,[^\n]+)/\1-\nAi/g
-s/(\nW[^,]*,0,[^\n]+)/\1-\nA-/g
+s/\nW[^,]*,1,[^\n]+/&-\nAi/g
+s/\nW[^,]*,0,[^\n]+/&-\nA-/g
 
 # Initial accumulator value (5). Removes the initial \n, but we can also assume
 # that the accumulator is first from here on.
 s/^/Aiiiii/
 
 # Add all increments/decrements to the accumulator, iterating until done.
-:inc_acc
-s/(Ai*)(\n.*\n)Ai\n/\1i\2/
-tinc_acc
-:dec_acc
-s/Ai(i*\n)(.*\n)A-\n/A\1\2/
-tdec_acc
+/\nAi/ {
+    :inc_acc
+    s/(Ai*)(\n.*\n)Ai\n/\1i\2/
+    tinc_acc
+}
+/\nA-/ {
+    :dec_acc
+    s/Ai(i*\n)(.*\n)A-\n/A\1\2/
+    tdec_acc
+}
 
 # Process all decrements
 :dec
