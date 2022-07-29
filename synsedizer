@@ -90,7 +90,7 @@ s/\nAi*\n/\n/
 #{
 #    h
 #    # Indent each line of state and add header/footer then print to stderr
-#    s/^/  /mg
+#    s/\n/&  /g
 #    s/^(.*)\n*$/DEBUG: state loop: state {\n&\n} state/
 #    w /dev/stderr
 #    g
